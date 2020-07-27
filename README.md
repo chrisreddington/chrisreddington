@@ -34,3 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#45](https://github.com//chrisreddington/cloudwithchris.com/pull/45) in [chrisreddington/cloudwithchris.com](https://github.com//chrisreddington/cloudwithchris.com)
+2. ❗️ Closed issue [#40](https://github.com//chrisreddington/cloudwithchris.com/issues/40) in [chrisreddington/cloudwithchris.com](https://github.com//chrisreddington/cloudwithchris.com)
+3. 🎉 Merged PR [#42](https://github.com//chrisreddington/cloudwithchris.com/pull/42) in [chrisreddington/cloudwithchris.com](https://github.com//chrisreddington/cloudwithchris.com)
+4. ❗️ Closed issue [#26](https://github.com//chrisreddington/cloudwithchris.com/issues/26) in [chrisreddington/cloudwithchris.com](https://github.com//chrisreddington/cloudwithchris.com)
+5. 🗣 Commented on [#8046](https://github.com//MicrosoftDocs/azure-devops-docs/issues/8046) in [MicrosoftDocs/azure-devops-docs](https://github.com//MicrosoftDocs/azure-devops-docs)
+<!--END_SECTION:activity-->

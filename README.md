@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com//chrisreddington/cloudwithchris.com/pull/46) in [chrisreddington/cloudwithchris.com](https://github.com//chrisreddington/cloudwithchris.com)
-2. 🗣 Commented on [#46](https://github.com//chrisreddington/cloudwithchris.com/issues/46) in [chrisreddington/cloudwithchris.com](https://github.com//chrisreddington/cloudwithchris.com)
-3. 💪 Opened PR [#46](https://github.com//chrisreddington/cloudwithchris.com/pull/46) in [chrisreddington/cloudwithchris.com](https://github.com//chrisreddington/cloudwithchris.com)
-4. 🗣 Commented on [#31](https://github.com//Azure/actions-workflow-samples/issues/31) in [Azure/actions-workflow-samples](https://github.com//Azure/actions-workflow-samples)
-5. 🎉 Merged PR [#45](https://github.com//chrisreddington/cloudwithchris.com/pull/45) in [chrisreddington/cloudwithchris.com](https://github.com//chrisreddington/cloudwithchris.com)
+1. ❗️ Opened issue [#61169](https://github.com//MicrosoftDocs/azure-docs/issues/61169) in [MicrosoftDocs/azure-docs](https://github.com//MicrosoftDocs/azure-docs)
+2. 🎉 Merged PR [#46](https://github.com//chrisreddington/cloudwithchris.com/pull/46) in [chrisreddington/cloudwithchris.com](https://github.com//chrisreddington/cloudwithchris.com)
+3. 🗣 Commented on [#46](https://github.com//chrisreddington/cloudwithchris.com/issues/46) in [chrisreddington/cloudwithchris.com](https://github.com//chrisreddington/cloudwithchris.com)
+4. 💪 Opened PR [#46](https://github.com//chrisreddington/cloudwithchris.com/pull/46) in [chrisreddington/cloudwithchris.com](https://github.com//chrisreddington/cloudwithchris.com)
+5. 🗣 Commented on [#31](https://github.com//Azure/actions-workflow-samples/issues/31) in [Azure/actions-workflow-samples](https://github.com//Azure/actions-workflow-samples)
 <!--END_SECTION:activity-->

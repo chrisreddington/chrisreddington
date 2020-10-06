@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/chrisreddington/cloudwithchris.com/pull/52) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. 💪 Opened PR [#52](https://github.com/chrisreddington/cloudwithchris.com/pull/52) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. ❗️ Opened issue [#61169](https://github.com/MicrosoftDocs/azure-docs/issues/61169) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-4. 🎉 Merged PR [#46](https://github.com/chrisreddington/cloudwithchris.com/pull/46) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. 🗣 Commented on [#46](https://github.com/chrisreddington/cloudwithchris.com/issues/46) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 💪 Opened PR [#1](https://github.com/chrisreddington/actions-workflow-samples/pull/1) in [chrisreddington/actions-workflow-samples](https://github.com/chrisreddington/actions-workflow-samples)
+2. 🎉 Merged PR [#52](https://github.com/chrisreddington/cloudwithchris.com/pull/52) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 💪 Opened PR [#52](https://github.com/chrisreddington/cloudwithchris.com/pull/52) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. ❗️ Opened issue [#61169](https://github.com/MicrosoftDocs/azure-docs/issues/61169) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+5. 🎉 Merged PR [#46](https://github.com/chrisreddington/cloudwithchris.com/pull/46) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

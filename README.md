@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/chrisreddington/cloudwithchris.com/issues/81) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. 🗣 Commented on [#85](https://github.com/chrisreddington/cloudwithchris.com/issues/85) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. ❗️ Opened issue [#95](https://github.com/chrisreddington/cloudwithchris.com/issues/95) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. 🎉 Merged PR [#254](https://github.com/Theatreers/Theatreers/pull/254) in [Theatreers/Theatreers](https://github.com/Theatreers/Theatreers)
-5. ❗️ Opened issue [#94](https://github.com/chrisreddington/cloudwithchris.com/issues/94) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 💪 Opened PR [#96](https://github.com/chrisreddington/cloudwithchris.com/pull/96) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. 🗣 Commented on [#81](https://github.com/chrisreddington/cloudwithchris.com/issues/81) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 🗣 Commented on [#85](https://github.com/chrisreddington/cloudwithchris.com/issues/85) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. ❗️ Opened issue [#95](https://github.com/chrisreddington/cloudwithchris.com/issues/95) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. 🎉 Merged PR [#254](https://github.com/Theatreers/Theatreers/pull/254) in [Theatreers/Theatreers](https://github.com/Theatreers/Theatreers)
 <!--END_SECTION:activity-->

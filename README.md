@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/chrisreddington/cloudwithchris.com/pull/97) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. 💪 Opened PR [#65474](https://github.com/MicrosoftDocs/azure-docs/pull/65474) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-3. 💪 Opened PR [#345](https://github.com/MicrosoftDocs/azure-dev-docs/pull/345) in [MicrosoftDocs/azure-dev-docs](https://github.com/MicrosoftDocs/azure-dev-docs)
-4. 🗣 Commented on [#49](https://github.com/Azure/actions-workflow-samples/issues/49) in [Azure/actions-workflow-samples](https://github.com/Azure/actions-workflow-samples)
-5. 🎉 Merged PR [#96](https://github.com/chrisreddington/cloudwithchris.com/pull/96) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 🎉 Merged PR [#97](https://github.com/chrisreddington/cloudwithchris.com/pull/97) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. 💪 Opened PR [#97](https://github.com/chrisreddington/cloudwithchris.com/pull/97) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 💪 Opened PR [#65474](https://github.com/MicrosoftDocs/azure-docs/pull/65474) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+4. 💪 Opened PR [#345](https://github.com/MicrosoftDocs/azure-dev-docs/pull/345) in [MicrosoftDocs/azure-dev-docs](https://github.com/MicrosoftDocs/azure-dev-docs)
+5. 🗣 Commented on [#49](https://github.com/Azure/actions-workflow-samples/issues/49) in [Azure/actions-workflow-samples](https://github.com/Azure/actions-workflow-samples)
 <!--END_SECTION:activity-->

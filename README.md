@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#307](https://github.com/mattstratton/castanet/pull/307) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-2. 🗣 Commented on [#306](https://github.com/mattstratton/castanet/issues/306) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-3. ❗️ Opened issue [#306](https://github.com/mattstratton/castanet/issues/306) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-4. 🎉 Merged PR [#104](https://github.com/chrisreddington/cloudwithchris.com/pull/104) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. 💪 Opened PR [#104](https://github.com/chrisreddington/cloudwithchris.com/pull/104) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 🗣 Commented on [#307](https://github.com/mattstratton/castanet/issues/307) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+2. 💪 Opened PR [#307](https://github.com/mattstratton/castanet/pull/307) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+3. 🗣 Commented on [#306](https://github.com/mattstratton/castanet/issues/306) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+4. ❗️ Opened issue [#306](https://github.com/mattstratton/castanet/issues/306) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+5. 🎉 Merged PR [#104](https://github.com/chrisreddington/cloudwithchris.com/pull/104) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

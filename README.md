@@ -36,7 +36,7 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#307](https://github.com/mattstratton/castanet/issues/307) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
 2. 🗣 Commented on [#307](https://github.com/mattstratton/castanet/issues/307) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-3. 💪 Opened PR [#307](https://github.com/mattstratton/castanet/pull/307) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-4. 🗣 Commented on [#306](https://github.com/mattstratton/castanet/issues/306) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-5. ❗️ Opened issue [#306](https://github.com/mattstratton/castanet/issues/306) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+3. 🗣 Commented on [#307](https://github.com/mattstratton/castanet/issues/307) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+4. 💪 Opened PR [#307](https://github.com/mattstratton/castanet/pull/307) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+5. 🗣 Commented on [#306](https://github.com/mattstratton/castanet/issues/306) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
 <!--END_SECTION:activity-->

@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/chrisreddington/hugo-community/issues/4) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-2. ❗️ Opened issue [#3](https://github.com/chrisreddington/hugo-community/issues/3) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-3. ❗️ Opened issue [#2](https://github.com/chrisreddington/hugo-community/issues/2) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-4. ❗️ Opened issue [#1](https://github.com/chrisreddington/hugo-community/issues/1) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-5. 💪 Opened PR [#315](https://github.com/mattstratton/castanet/pull/315) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+1. ❗️ Opened issue [#12](https://github.com/chrisreddington/hugo-community/issues/12) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+2. ❗️ Opened issue [#11](https://github.com/chrisreddington/hugo-community/issues/11) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+3. ❗️ Opened issue [#10](https://github.com/chrisreddington/hugo-community/issues/10) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+4. ❗️ Opened issue [#9](https://github.com/chrisreddington/hugo-community/issues/9) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+5. ❗️ Opened issue [#8](https://github.com/chrisreddington/hugo-community/issues/8) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
 <!--END_SECTION:activity-->

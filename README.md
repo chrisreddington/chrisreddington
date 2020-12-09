@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/treosh/lighthouse-ci-action/issues/60) in [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action)
-2. 🗣 Commented on [#60](https://github.com/treosh/lighthouse-ci-action/issues/60) in [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action)
-3. 💪 Opened PR [#26](https://github.com/chrisreddington/hugo-community/pull/26) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-4. 🗣 Commented on [#315](https://github.com/mattstratton/castanet/issues/315) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-5. 🗣 Commented on [#312](https://github.com/mattstratton/castanet/issues/312) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+1. ❌ Closed PR [#313](https://github.com/mattstratton/castanet/pull/313) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+2. ❗️ Opened issue [#76](https://github.com/treosh/lighthouse-ci-action/issues/76) in [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action)
+3. 🗣 Commented on [#60](https://github.com/treosh/lighthouse-ci-action/issues/60) in [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action)
+4. 🗣 Commented on [#60](https://github.com/treosh/lighthouse-ci-action/issues/60) in [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action)
+5. 💪 Opened PR [#26](https://github.com/chrisreddington/hugo-community/pull/26) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
 <!--END_SECTION:activity-->

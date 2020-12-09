@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/chrisreddington/hugo-community/issues/23) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-2. 🗣 Commented on [#24](https://github.com/chrisreddington/hugo-community/issues/24) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-3. 🗣 Commented on [#5](https://github.com/chrisreddington/hugo-community/issues/5) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+1. ❗️ Closed issue [#4](https://github.com/chrisreddington/hugo-community/issues/4) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+2. ❗️ Closed issue [#15](https://github.com/chrisreddington/hugo-community/issues/15) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+3. 🗣 Commented on [#4](https://github.com/chrisreddington/hugo-community/issues/4) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
 4. 🗣 Commented on [#15](https://github.com/chrisreddington/hugo-community/issues/15) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-5. 🗣 Commented on [#18](https://github.com/chrisreddington/hugo-community/issues/18) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+5. 🗣 Commented on [#23](https://github.com/chrisreddington/hugo-community/issues/23) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
 <!--END_SECTION:activity-->

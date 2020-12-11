@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/chrisreddington/hugo-community/pull/36) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-2. ❗️ Closed issue [#21](https://github.com/chrisreddington/hugo-community/issues/21) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-3. 💪 Opened PR [#36](https://github.com/chrisreddington/hugo-community/pull/36) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-4. 🗣 Commented on [#20](https://github.com/chrisreddington/hugo-community/issues/20) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-5. 🗣 Commented on [#1](https://github.com/chrisreddington/hugo-community/issues/1) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+1. 🗣 Commented on [#69](https://github.com/actions/create-release/issues/69) in [actions/create-release](https://github.com/actions/create-release)
+2. 🎉 Merged PR [#36](https://github.com/chrisreddington/hugo-community/pull/36) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+3. ❗️ Closed issue [#21](https://github.com/chrisreddington/hugo-community/issues/21) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+4. 💪 Opened PR [#36](https://github.com/chrisreddington/hugo-community/pull/36) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+5. 🗣 Commented on [#20](https://github.com/chrisreddington/hugo-community/issues/20) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
 <!--END_SECTION:activity-->

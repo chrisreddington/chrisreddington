@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#324](https://github.com/mattstratton/castanet/issues/324) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-2. 🗣 Commented on [#310](https://github.com/mattstratton/castanet/issues/310) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-3. 🗣 Commented on [#165](https://github.com/mattstratton/castanet/issues/165) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+1. 🗣 Commented on [#310](https://github.com/mattstratton/castanet/issues/310) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+2. 🗣 Commented on [#324](https://github.com/mattstratton/castanet/issues/324) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+3. 🗣 Commented on [#310](https://github.com/mattstratton/castanet/issues/310) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
 4. 🗣 Commented on [#165](https://github.com/mattstratton/castanet/issues/165) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-5. 🗣 Commented on [#322](https://github.com/mattstratton/castanet/issues/322) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+5. 🗣 Commented on [#165](https://github.com/mattstratton/castanet/issues/165) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
 <!--END_SECTION:activity-->

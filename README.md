@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#607](https://github.com/gjtorikian/html-proofer/issues/607) in [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer)
-2. ❗️ Opened issue [#45](https://github.com/chrisreddington/hugo-community/issues/45) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-3. 💪 Opened PR [#44](https://github.com/chrisreddington/hugo-community/pull/44) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-4. 🗣 Commented on [#43](https://github.com/chrisreddington/hugo-community/issues/43) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-5. ❗️ Opened issue [#43](https://github.com/chrisreddington/hugo-community/issues/43) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+1. 🎉 Merged PR [#113](https://github.com/chrisreddington/cloudwithchris.com/pull/113) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. 💪 Opened PR [#113](https://github.com/chrisreddington/cloudwithchris.com/pull/113) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 🗣 Commented on [#607](https://github.com/gjtorikian/html-proofer/issues/607) in [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer)
+4. ❗️ Opened issue [#45](https://github.com/chrisreddington/hugo-community/issues/45) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+5. 💪 Opened PR [#44](https://github.com/chrisreddington/hugo-community/pull/44) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
 <!--END_SECTION:activity-->

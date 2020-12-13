@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#607](https://github.com/gjtorikian/html-proofer/issues/607) in [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer)
-2. 🗣 Commented on [#320](https://github.com/mattstratton/castanet/issues/320) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-3. 💪 Opened PR [#327](https://github.com/mattstratton/castanet/pull/327) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-4. 🗣 Commented on [#326](https://github.com/mattstratton/castanet/issues/326) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-5. 🗣 Commented on [#19](https://github.com/mattstratton/castanet/issues/19) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+1. 🗣 Commented on [#35](https://github.com/chrisreddington/hugo-community/issues/35) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+2. 🗣 Commented on [#607](https://github.com/gjtorikian/html-proofer/issues/607) in [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer)
+3. 🗣 Commented on [#320](https://github.com/mattstratton/castanet/issues/320) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+4. 💪 Opened PR [#327](https://github.com/mattstratton/castanet/pull/327) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+5. 🗣 Commented on [#326](https://github.com/mattstratton/castanet/issues/326) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
 <!--END_SECTION:activity-->

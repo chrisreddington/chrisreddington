@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/chrisreddington/cloudwithchris.com/pull/119) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. 💪 Opened PR [#119](https://github.com/chrisreddington/cloudwithchris.com/pull/119) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. 🎉 Merged PR [#118](https://github.com/chrisreddington/cloudwithchris.com/pull/118) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. 💪 Opened PR [#118](https://github.com/chrisreddington/cloudwithchris.com/pull/118) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. 🗣 Commented on [#327](https://github.com/mattstratton/castanet/issues/327) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+1. 🗣 Commented on [#82](https://github.com/chrisreddington/cloudwithchris.com/issues/82) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. 🗣 Commented on [#82](https://github.com/chrisreddington/cloudwithchris.com/issues/82) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 🗣 Commented on [#67](https://github.com/chrisreddington/cloudwithchris.com/issues/67) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. 🎉 Merged PR [#119](https://github.com/chrisreddington/cloudwithchris.com/pull/119) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. 💪 Opened PR [#119](https://github.com/chrisreddington/cloudwithchris.com/pull/119) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

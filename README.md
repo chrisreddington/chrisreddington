@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/chrisreddington/hugo-community/pull/55) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-2. ❗️ Opened issue [#54](https://github.com/chrisreddington/hugo-community/issues/54) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-3. ❗️ Opened issue [#53](https://github.com/chrisreddington/hugo-community/issues/53) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-4. ❗️ Opened issue [#52](https://github.com/chrisreddington/hugo-community/issues/52) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
-5. ❗️ Opened issue [#51](https://github.com/chrisreddington/hugo-community/issues/51) in [chrisreddington/hugo-community](https://github.com/chrisreddington/hugo-community)
+1. ❗️ Closed issue [#59](https://github.com/chrisreddington/cloudwithchris.com/issues/59) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. ❗️ Closed issue [#68](https://github.com/chrisreddington/cloudwithchris.com/issues/68) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. ❗️ Closed issue [#85](https://github.com/chrisreddington/cloudwithchris.com/issues/85) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. ❗️ Closed issue [#69](https://github.com/chrisreddington/cloudwithchris.com/issues/69) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. ❗️ Closed issue [#71](https://github.com/chrisreddington/cloudwithchris.com/issues/71) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

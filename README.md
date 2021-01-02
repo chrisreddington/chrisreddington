@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#310](https://github.com/mattstratton/castanet/issues/310) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
-2. 🎉 Merged PR [#134](https://github.com/chrisreddington/cloudwithchris.com/pull/134) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. ❌ Closed PR [#132](https://github.com/chrisreddington/cloudwithchris.com/pull/132) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. ❌ Closed PR [#131](https://github.com/chrisreddington/cloudwithchris.com/pull/131) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. ❌ Closed PR [#130](https://github.com/chrisreddington/cloudwithchris.com/pull/130) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. ❗️ Opened issue [#137](https://github.com/chrisreddington/cloudwithchris.com/issues/137) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. ❗️ Opened issue [#136](https://github.com/chrisreddington/cloudwithchris.com/issues/136) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. ❗️ Opened issue [#135](https://github.com/chrisreddington/cloudwithchris.com/issues/135) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. ❗️ Closed issue [#75](https://github.com/chrisreddington/cloudwithchris.com/issues/75) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. ❗️ Closed issue [#58](https://github.com/chrisreddington/cloudwithchris.com/issues/58) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

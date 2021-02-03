@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#168](https://github.com/chrisreddington/cloudwithchris.com/pull/168) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. 🎉 Merged PR [#171](https://github.com/chrisreddington/cloudwithchris.com/pull/171) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. 💪 Opened PR [#171](https://github.com/chrisreddington/cloudwithchris.com/pull/171) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. 🎉 Merged PR [#170](https://github.com/chrisreddington/cloudwithchris.com/pull/170) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. 🎉 Merged PR [#169](https://github.com/chrisreddington/cloudwithchris.com/pull/169) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 🎉 Merged PR [#1](https://github.com/chrisreddington/AzureThamesValley/pull/1) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
+2. 💪 Opened PR [#1](https://github.com/chrisreddington/AzureThamesValley/pull/1) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
+3. 🎉 Merged PR [#168](https://github.com/chrisreddington/cloudwithchris.com/pull/168) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. 🎉 Merged PR [#171](https://github.com/chrisreddington/cloudwithchris.com/pull/171) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. 💪 Opened PR [#171](https://github.com/chrisreddington/cloudwithchris.com/pull/171) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

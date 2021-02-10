@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/chrisreddington/AzureThamesValley/pull/7) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
-2. ❌ Closed PR [#5](https://github.com/chrisreddington/AzureThamesValley/pull/5) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
-3. ❌ Closed PR [#4](https://github.com/chrisreddington/AzureThamesValley/pull/4) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
-4. ❌ Closed PR [#3](https://github.com/chrisreddington/AzureThamesValley/pull/3) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
-5. ❌ Closed PR [#2](https://github.com/chrisreddington/AzureThamesValley/pull/2) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
+1. 💪 Opened PR [#8](https://github.com/chrisreddington/AzureThamesValley/pull/8) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
+2. 🎉 Merged PR [#7](https://github.com/chrisreddington/AzureThamesValley/pull/7) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
+3. ❌ Closed PR [#5](https://github.com/chrisreddington/AzureThamesValley/pull/5) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
+4. ❌ Closed PR [#4](https://github.com/chrisreddington/AzureThamesValley/pull/4) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
+5. ❌ Closed PR [#3](https://github.com/chrisreddington/AzureThamesValley/pull/3) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
 <!--END_SECTION:activity-->

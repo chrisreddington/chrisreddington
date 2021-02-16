@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#181](https://github.com/chrisreddington/cloudwithchris.com/pull/181) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. 💪 Opened PR [#182](https://github.com/chrisreddington/cloudwithchris.com/pull/182) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. 🎉 Merged PR [#9](https://github.com/chrisreddington/AzureThamesValley/pull/9) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
-4. 💪 Opened PR [#9](https://github.com/chrisreddington/AzureThamesValley/pull/9) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
-5. 🗣 Commented on [#10151](https://github.com/terraform-providers/terraform-provider-azurerm/issues/10151) in [terraform-providers/terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+1. 🎉 Merged PR [#182](https://github.com/chrisreddington/cloudwithchris.com/pull/182) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. 🎉 Merged PR [#181](https://github.com/chrisreddington/cloudwithchris.com/pull/181) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 💪 Opened PR [#182](https://github.com/chrisreddington/cloudwithchris.com/pull/182) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. 🎉 Merged PR [#9](https://github.com/chrisreddington/AzureThamesValley/pull/9) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
+5. 💪 Opened PR [#9](https://github.com/chrisreddington/AzureThamesValley/pull/9) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
 <!--END_SECTION:activity-->

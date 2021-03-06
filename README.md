@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#268](https://github.com/chrisreddington/cloudwithchris.com/issues/268) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. ❗️ Opened issue [#267](https://github.com/chrisreddington/cloudwithchris.com/issues/267) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. ❗️ Opened issue [#266](https://github.com/chrisreddington/cloudwithchris.com/issues/266) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. ❗️ Opened issue [#265](https://github.com/chrisreddington/cloudwithchris.com/issues/265) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. ❗️ Opened issue [#264](https://github.com/chrisreddington/cloudwithchris.com/issues/264) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. ❗️ Opened issue [#271](https://github.com/chrisreddington/cloudwithchris.com/issues/271) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. ❗️ Opened issue [#270](https://github.com/chrisreddington/cloudwithchris.com/issues/270) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. ❗️ Opened issue [#269](https://github.com/chrisreddington/cloudwithchris.com/issues/269) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. ❗️ Opened issue [#268](https://github.com/chrisreddington/cloudwithchris.com/issues/268) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. ❗️ Opened issue [#267](https://github.com/chrisreddington/cloudwithchris.com/issues/267) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

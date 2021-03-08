@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#273](https://github.com/chrisreddington/cloudwithchris.com/issues/273) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. ❗️ Opened issue [#272](https://github.com/chrisreddington/cloudwithchris.com/issues/272) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. ❗️ Opened issue [#271](https://github.com/chrisreddington/cloudwithchris.com/issues/271) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. ❗️ Opened issue [#270](https://github.com/chrisreddington/cloudwithchris.com/issues/270) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. ❗️ Opened issue [#269](https://github.com/chrisreddington/cloudwithchris.com/issues/269) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 🗣 Commented on [#65](https://github.com/Azure/actions-workflow-samples/issues/65) in [Azure/actions-workflow-samples](https://github.com/Azure/actions-workflow-samples)
+2. 🗣 Commented on [#65](https://github.com/Azure/actions-workflow-samples/issues/65) in [Azure/actions-workflow-samples](https://github.com/Azure/actions-workflow-samples)
+3. 💪 Opened PR [#65](https://github.com/Azure/actions-workflow-samples/pull/65) in [Azure/actions-workflow-samples](https://github.com/Azure/actions-workflow-samples)
+4. ❗️ Opened issue [#273](https://github.com/chrisreddington/cloudwithchris.com/issues/273) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. ❗️ Opened issue [#272](https://github.com/chrisreddington/cloudwithchris.com/issues/272) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

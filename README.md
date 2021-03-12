@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#295](https://github.com/chrisreddington/cloudwithchris.com/pull/295) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. 🎉 Merged PR [#294](https://github.com/chrisreddington/cloudwithchris.com/pull/294) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. 🎉 Merged PR [#14](https://github.com/chrisreddington/AzureThamesValley/pull/14) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
-4. 💪 Opened PR [#14](https://github.com/chrisreddington/AzureThamesValley/pull/14) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
-5. ❗️ Closed issue [#256](https://github.com/chrisreddington/cloudwithchris.com/issues/256) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 🎉 Merged PR [#296](https://github.com/chrisreddington/cloudwithchris.com/pull/296) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. 💪 Opened PR [#296](https://github.com/chrisreddington/cloudwithchris.com/pull/296) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 🎉 Merged PR [#295](https://github.com/chrisreddington/cloudwithchris.com/pull/295) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. 🎉 Merged PR [#294](https://github.com/chrisreddington/cloudwithchris.com/pull/294) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. 🎉 Merged PR [#14](https://github.com/chrisreddington/AzureThamesValley/pull/14) in [chrisreddington/AzureThamesValley](https://github.com/chrisreddington/AzureThamesValley)
 <!--END_SECTION:activity-->

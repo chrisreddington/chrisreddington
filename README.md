@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/chrisreddington/nuget-repro/pull/1) in [chrisreddington/nuget-repro](https://github.com/chrisreddington/nuget-repro)
-2. 🎉 Merged PR [#302](https://github.com/chrisreddington/cloudwithchris.com/pull/302) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. 💪 Opened PR [#302](https://github.com/chrisreddington/cloudwithchris.com/pull/302) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. 🎉 Merged PR [#301](https://github.com/chrisreddington/cloudwithchris.com/pull/301) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. 🎉 Merged PR [#300](https://github.com/chrisreddington/cloudwithchris.com/pull/300) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. ❗️ Opened issue [#303](https://github.com/chrisreddington/cloudwithchris.com/issues/303) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. ❗️ Closed issue [#271](https://github.com/chrisreddington/cloudwithchris.com/issues/271) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 💪 Opened PR [#1](https://github.com/chrisreddington/nuget-repro/pull/1) in [chrisreddington/nuget-repro](https://github.com/chrisreddington/nuget-repro)
+4. 🎉 Merged PR [#302](https://github.com/chrisreddington/cloudwithchris.com/pull/302) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. 💪 Opened PR [#302](https://github.com/chrisreddington/cloudwithchris.com/pull/302) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

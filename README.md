@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#316](https://github.com/chrisreddington/cloudwithchris.com/pull/316) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. 🎉 Merged PR [#315](https://github.com/chrisreddington/cloudwithchris.com/pull/315) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. ❌ Reopened PR [#315](https://github.com/chrisreddington/cloudwithchris.com/pull/315) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. ❌ Closed PR [#315](https://github.com/chrisreddington/cloudwithchris.com/pull/315) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. 💪 Opened PR [#314](https://github.com/chrisreddington/cloudwithchris.com/pull/314) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 🎉 Merged PR [#314](https://github.com/chrisreddington/cloudwithchris.com/pull/314) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. 🎉 Merged PR [#316](https://github.com/chrisreddington/cloudwithchris.com/pull/316) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 🎉 Merged PR [#315](https://github.com/chrisreddington/cloudwithchris.com/pull/315) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. ❌ Reopened PR [#315](https://github.com/chrisreddington/cloudwithchris.com/pull/315) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. ❌ Closed PR [#315](https://github.com/chrisreddington/cloudwithchris.com/pull/315) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

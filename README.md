@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#321](https://github.com/chrisreddington/cloudwithchris.com/pull/321) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. ❗️ Opened issue [#320](https://github.com/chrisreddington/cloudwithchris.com/issues/320) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. ❗️ Opened issue [#319](https://github.com/chrisreddington/cloudwithchris.com/issues/319) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. ❗️ Opened issue [#318](https://github.com/chrisreddington/cloudwithchris.com/issues/318) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. ❗️ Opened issue [#317](https://github.com/chrisreddington/cloudwithchris.com/issues/317) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 💪 Opened PR [#323](https://github.com/chrisreddington/cloudwithchris.com/pull/323) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. 🎉 Merged PR [#322](https://github.com/chrisreddington/cloudwithchris.com/pull/322) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 🎉 Merged PR [#321](https://github.com/chrisreddington/cloudwithchris.com/pull/321) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. ❗️ Opened issue [#320](https://github.com/chrisreddington/cloudwithchris.com/issues/320) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. ❗️ Opened issue [#319](https://github.com/chrisreddington/cloudwithchris.com/issues/319) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

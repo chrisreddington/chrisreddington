@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#439](https://github.com/chrisreddington/cloudwithchris.com/pull/439) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. 💪 Opened PR [#438](https://github.com/chrisreddington/cloudwithchris.com/pull/438) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. ❗️ Closed issue [#422](https://github.com/chrisreddington/cloudwithchris.com/issues/422) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. 🎉 Merged PR [#435](https://github.com/chrisreddington/cloudwithchris.com/pull/435) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. 🎉 Merged PR [#437](https://github.com/chrisreddington/cloudwithchris.com/pull/437) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 🗣 Commented on [#4461](https://github.com/signalapp/Signal-Desktop/issues/4461) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+2. 💪 Opened PR [#439](https://github.com/chrisreddington/cloudwithchris.com/pull/439) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 💪 Opened PR [#438](https://github.com/chrisreddington/cloudwithchris.com/pull/438) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. ❗️ Closed issue [#422](https://github.com/chrisreddington/cloudwithchris.com/issues/422) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. 🎉 Merged PR [#435](https://github.com/chrisreddington/cloudwithchris.com/pull/435) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

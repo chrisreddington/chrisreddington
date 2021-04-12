@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33134](https://github.com/twbs/bootstrap/issues/33134) in [twbs/bootstrap](https://github.com/twbs/bootstrap)
-2. 🗣 Commented on [#4461](https://github.com/signalapp/Signal-Desktop/issues/4461) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
-3. 💪 Opened PR [#439](https://github.com/chrisreddington/cloudwithchris.com/pull/439) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. 💪 Opened PR [#438](https://github.com/chrisreddington/cloudwithchris.com/pull/438) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. ❗️ Closed issue [#422](https://github.com/chrisreddington/cloudwithchris.com/issues/422) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 🎉 Merged PR [#7](https://github.com/chrisreddington/security-strategy-essentials/pull/7) in [chrisreddington/security-strategy-essentials](https://github.com/chrisreddington/security-strategy-essentials)
+2. 💪 Opened PR [#7](https://github.com/chrisreddington/security-strategy-essentials/pull/7) in [chrisreddington/security-strategy-essentials](https://github.com/chrisreddington/security-strategy-essentials)
+3. ❗️ Closed issue [#5](https://github.com/chrisreddington/security-strategy-essentials/issues/5) in [chrisreddington/security-strategy-essentials](https://github.com/chrisreddington/security-strategy-essentials)
+4. 🎉 Merged PR [#3](https://github.com/chrisreddington/security-strategy-essentials/pull/3) in [chrisreddington/security-strategy-essentials](https://github.com/chrisreddington/security-strategy-essentials)
+5. 🎉 Merged PR [#1](https://github.com/chrisreddington/security-strategy-essentials/pull/1) in [chrisreddington/security-strategy-essentials](https://github.com/chrisreddington/security-strategy-essentials)
 <!--END_SECTION:activity-->

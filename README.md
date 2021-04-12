@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/chrisreddington/codeql-javascript-unsafe-jquery-plugin/issues/2) in [chrisreddington/codeql-javascript-unsafe-jquery-plugin](https://github.com/chrisreddington/codeql-javascript-unsafe-jquery-plugin)
-2. ❗️ Closed issue [#1](https://github.com/chrisreddington/codeql-javascript-unsafe-jquery-plugin/issues/1) in [chrisreddington/codeql-javascript-unsafe-jquery-plugin](https://github.com/chrisreddington/codeql-javascript-unsafe-jquery-plugin)
-3. 🎉 Merged PR [#440](https://github.com/chrisreddington/cloudwithchris.com/pull/440) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. 💪 Opened PR [#440](https://github.com/chrisreddington/cloudwithchris.com/pull/440) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. 🎉 Merged PR [#438](https://github.com/chrisreddington/cloudwithchris.com/pull/438) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. ❗️ Closed issue [#5](https://github.com/chrisreddington/codeql-javascript-unsafe-jquery-plugin/issues/5) in [chrisreddington/codeql-javascript-unsafe-jquery-plugin](https://github.com/chrisreddington/codeql-javascript-unsafe-jquery-plugin)
+2. ❗️ Closed issue [#2](https://github.com/chrisreddington/codeql-javascript-unsafe-jquery-plugin/issues/2) in [chrisreddington/codeql-javascript-unsafe-jquery-plugin](https://github.com/chrisreddington/codeql-javascript-unsafe-jquery-plugin)
+3. ❗️ Closed issue [#1](https://github.com/chrisreddington/codeql-javascript-unsafe-jquery-plugin/issues/1) in [chrisreddington/codeql-javascript-unsafe-jquery-plugin](https://github.com/chrisreddington/codeql-javascript-unsafe-jquery-plugin)
+4. 🎉 Merged PR [#440](https://github.com/chrisreddington/cloudwithchris.com/pull/440) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. 💪 Opened PR [#440](https://github.com/chrisreddington/cloudwithchris.com/pull/440) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#442](https://github.com/chrisreddington/cloudwithchris.com/pull/442) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. 🎉 Merged PR [#439](https://github.com/chrisreddington/cloudwithchris.com/pull/439) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. 🎉 Merged PR [#441](https://github.com/chrisreddington/cloudwithchris.com/pull/441) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. 💪 Opened PR [#441](https://github.com/chrisreddington/cloudwithchris.com/pull/441) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. ❗️ Closed issue [#5](https://github.com/chrisreddington/codeql-javascript-unsafe-jquery-plugin/issues/5) in [chrisreddington/codeql-javascript-unsafe-jquery-plugin](https://github.com/chrisreddington/codeql-javascript-unsafe-jquery-plugin)
+1. 🎉 Merged PR [#446](https://github.com/chrisreddington/cloudwithchris.com/pull/446) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. 🎉 Merged PR [#445](https://github.com/chrisreddington/cloudwithchris.com/pull/445) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 💪 Opened PR [#446](https://github.com/chrisreddington/cloudwithchris.com/pull/446) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. ❌ Closed PR [#443](https://github.com/chrisreddington/cloudwithchris.com/pull/443) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. 🎉 Merged PR [#444](https://github.com/chrisreddington/cloudwithchris.com/pull/444) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

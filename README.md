@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#376](https://github.com/chrisreddington/cloudwithchris.com/issues/376) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. ❗️ Closed issue [#518](https://github.com/chrisreddington/cloudwithchris.com/issues/518) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. ❗️ Closed issue [#516](https://github.com/chrisreddington/cloudwithchris.com/issues/516) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-4. ❗️ Closed issue [#517](https://github.com/chrisreddington/cloudwithchris.com/issues/517) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. ❗️ Closed issue [#546](https://github.com/chrisreddington/cloudwithchris.com/issues/546) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. ❗️ Opened issue [#6](https://github.com/chrisreddington/HugoCrossPoster/issues/6) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+2. ❗️ Opened issue [#5](https://github.com/chrisreddington/HugoCrossPoster/issues/5) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+3. ❗️ Opened issue [#4](https://github.com/chrisreddington/HugoCrossPoster/issues/4) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+4. ❗️ Opened issue [#3](https://github.com/chrisreddington/HugoCrossPoster/issues/3) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+5. ❗️ Closed issue [#376](https://github.com/chrisreddington/cloudwithchris.com/issues/376) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

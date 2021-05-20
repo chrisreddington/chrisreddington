@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/chrisreddington/HugoCrossPoster/issues/8) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
-2. ❗️ Closed issue [#7](https://github.com/chrisreddington/HugoCrossPoster/issues/7) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
-3. 🗣 Commented on [#7](https://github.com/chrisreddington/HugoCrossPoster/issues/7) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
-4. 🎉 Merged PR [#551](https://github.com/chrisreddington/cloudwithchris.com/pull/551) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. 💪 Opened PR [#551](https://github.com/chrisreddington/cloudwithchris.com/pull/551) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 💪 Opened PR [#2](https://github.com/chrisreddington/blazordemo/pull/2) in [chrisreddington/blazordemo](https://github.com/chrisreddington/blazordemo)
+2. 💪 Opened PR [#1](https://github.com/chrisreddington/blazordemo/pull/1) in [chrisreddington/blazordemo](https://github.com/chrisreddington/blazordemo)
+3. ❗️ Opened issue [#8](https://github.com/chrisreddington/HugoCrossPoster/issues/8) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+4. ❗️ Closed issue [#7](https://github.com/chrisreddington/HugoCrossPoster/issues/7) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+5. 🗣 Commented on [#7](https://github.com/chrisreddington/HugoCrossPoster/issues/7) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
 <!--END_SECTION:activity-->

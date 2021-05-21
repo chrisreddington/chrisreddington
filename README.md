@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/chrisreddington/UKCommunitySite/pull/3) in [chrisreddington/UKCommunitySite](https://github.com/chrisreddington/UKCommunitySite)
-2. 🎉 Merged PR [#4](https://github.com/chrisreddington/UKCommunitySite/pull/4) in [chrisreddington/UKCommunitySite](https://github.com/chrisreddington/UKCommunitySite)
-3. 🎉 Merged PR [#2](https://github.com/chrisreddington/UKCommunitySite/pull/2) in [chrisreddington/UKCommunitySite](https://github.com/chrisreddington/UKCommunitySite)
-4. 💪 Opened PR [#2](https://github.com/chrisreddington/UKCommunitySite/pull/2) in [chrisreddington/UKCommunitySite](https://github.com/chrisreddington/UKCommunitySite)
-5. 🎉 Merged PR [#1](https://github.com/chrisreddington/UKCommunitySite/pull/1) in [chrisreddington/UKCommunitySite](https://github.com/chrisreddington/UKCommunitySite)
+1. ❗️ Closed issue [#9](https://github.com/chrisreddington/HugoCrossPoster/issues/9) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+2. ❗️ Opened issue [#9](https://github.com/chrisreddington/HugoCrossPoster/issues/9) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+3. ❌ Closed PR [#3](https://github.com/chrisreddington/UKCommunitySite/pull/3) in [chrisreddington/UKCommunitySite](https://github.com/chrisreddington/UKCommunitySite)
+4. 🎉 Merged PR [#4](https://github.com/chrisreddington/UKCommunitySite/pull/4) in [chrisreddington/UKCommunitySite](https://github.com/chrisreddington/UKCommunitySite)
+5. 🎉 Merged PR [#2](https://github.com/chrisreddington/UKCommunitySite/pull/2) in [chrisreddington/UKCommunitySite](https://github.com/chrisreddington/UKCommunitySite)
 <!--END_SECTION:activity-->

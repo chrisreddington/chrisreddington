@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#563](https://github.com/chrisreddington/cloudwithchris.com/pull/563) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-2. 💪 Opened PR [#563](https://github.com/chrisreddington/cloudwithchris.com/pull/563) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. 💪 Opened PR [#2](https://github.com/UK-Community/dryrun/pull/2) in [UK-Community/dryrun](https://github.com/UK-Community/dryrun)
-4. 🎉 Merged PR [#1](https://github.com/UK-Community/dryrun/pull/1) in [UK-Community/dryrun](https://github.com/UK-Community/dryrun)
-5. ❌ Closed PR [#562](https://github.com/chrisreddington/cloudwithchris.com/pull/562) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. 💪 Opened PR [#572](https://github.com/chrisreddington/cloudwithchris.com/pull/572) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. 🎉 Merged PR [#571](https://github.com/chrisreddington/cloudwithchris.com/pull/571) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+3. 💪 Opened PR [#571](https://github.com/chrisreddington/cloudwithchris.com/pull/571) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. ❗️ Opened issue [#570](https://github.com/chrisreddington/cloudwithchris.com/issues/570) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+5. ❗️ Opened issue [#569](https://github.com/chrisreddington/cloudwithchris.com/issues/569) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

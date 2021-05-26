@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/chrisreddington/HugoCrossPoster/pull/12) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
-2. ❗️ Closed issue [#3](https://github.com/chrisreddington/HugoCrossPoster/issues/3) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
-3. ❗️ Closed issue [#11](https://github.com/chrisreddington/HugoCrossPoster/issues/11) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
-4. 🎉 Merged PR [#572](https://github.com/chrisreddington/cloudwithchris.com/pull/572) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-5. 🎉 Merged PR [#573](https://github.com/chrisreddington/cloudwithchris.com/pull/573) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+1. ❗️ Closed issue [#567](https://github.com/chrisreddington/cloudwithchris.com/issues/567) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+2. 🎉 Merged PR [#12](https://github.com/chrisreddington/HugoCrossPoster/pull/12) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+3. ❗️ Closed issue [#3](https://github.com/chrisreddington/HugoCrossPoster/issues/3) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+4. ❗️ Closed issue [#11](https://github.com/chrisreddington/HugoCrossPoster/issues/11) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+5. 🎉 Merged PR [#572](https://github.com/chrisreddington/cloudwithchris.com/pull/572) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
 <!--END_SECTION:activity-->

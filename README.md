@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/UK-Community/UK-Community/pull/1) in [UK-Community/UK-Community](https://github.com/UK-Community/UK-Community)
-2. ❗️ Closed issue [#567](https://github.com/chrisreddington/cloudwithchris.com/issues/567) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
-3. 🎉 Merged PR [#12](https://github.com/chrisreddington/HugoCrossPoster/pull/12) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
-4. ❗️ Closed issue [#3](https://github.com/chrisreddington/HugoCrossPoster/issues/3) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
-5. ❗️ Closed issue [#11](https://github.com/chrisreddington/HugoCrossPoster/issues/11) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+1. 💪 Opened PR [#2](https://github.com/UK-Community/UK-Community/pull/2) in [UK-Community/UK-Community](https://github.com/UK-Community/UK-Community)
+2. 🎉 Merged PR [#1](https://github.com/UK-Community/UK-Community/pull/1) in [UK-Community/UK-Community](https://github.com/UK-Community/UK-Community)
+3. ❗️ Closed issue [#567](https://github.com/chrisreddington/cloudwithchris.com/issues/567) in [chrisreddington/cloudwithchris.com](https://github.com/chrisreddington/cloudwithchris.com)
+4. 🎉 Merged PR [#12](https://github.com/chrisreddington/HugoCrossPoster/pull/12) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
+5. ❗️ Closed issue [#3](https://github.com/chrisreddington/HugoCrossPoster/issues/3) in [chrisreddington/HugoCrossPoster](https://github.com/chrisreddington/HugoCrossPoster)
 <!--END_SECTION:activity-->

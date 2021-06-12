@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#659](https://github.com/CloudWithChris/cloudwithchris.com/pull/659) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 🎉 Merged PR [#662](https://github.com/CloudWithChris/cloudwithchris.com/pull/662) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 🎉 Merged PR [#661](https://github.com/CloudWithChris/cloudwithchris.com/pull/661) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 🎉 Merged PR [#660](https://github.com/CloudWithChris/cloudwithchris.com/pull/660) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 💪 Opened PR [#659](https://github.com/CloudWithChris/cloudwithchris.com/pull/659) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. ❗️ Opened issue [#11](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals/issues/11) in [CloudWithChris/CloudWithChris.Integrations.Approvals](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals)
+2. ❗️ Opened issue [#10](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals/issues/10) in [CloudWithChris/CloudWithChris.Integrations.Approvals](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals)
+3. ❗️ Opened issue [#9](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals/issues/9) in [CloudWithChris/CloudWithChris.Integrations.Approvals](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals)
+4. ❗️ Opened issue [#8](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals/issues/8) in [CloudWithChris/CloudWithChris.Integrations.Approvals](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals)
+5. ❗️ Opened issue [#7](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals/issues/7) in [CloudWithChris/CloudWithChris.Integrations.Approvals](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals)
 <!--END_SECTION:activity-->

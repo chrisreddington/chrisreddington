@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#637](https://github.com/CloudWithChris/cloudwithchris.com/issues/637) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. ❗️ Closed issue [#637](https://github.com/CloudWithChris/cloudwithchris.com/issues/637) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 🗣 Commented on [#648](https://github.com/CloudWithChris/cloudwithchris.com/issues/648) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. ❗️ Closed issue [#648](https://github.com/CloudWithChris/cloudwithchris.com/issues/648) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 🗣 Commented on [#11](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals/issues/11) in [CloudWithChris/CloudWithChris.Integrations.Approvals](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals)
+1. ❗️ Opened issue [#680](https://github.com/CloudWithChris/cloudwithchris.com/issues/680) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 🗣 Commented on [#637](https://github.com/CloudWithChris/cloudwithchris.com/issues/637) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. ❗️ Closed issue [#637](https://github.com/CloudWithChris/cloudwithchris.com/issues/637) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+4. 🗣 Commented on [#648](https://github.com/CloudWithChris/cloudwithchris.com/issues/648) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. ❗️ Closed issue [#648](https://github.com/CloudWithChris/cloudwithchris.com/issues/648) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

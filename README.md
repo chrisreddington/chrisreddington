@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8568](https://github.com/gohugoio/hugo/issues/8568) in [gohugoio/hugo](https://github.com/gohugoio/hugo)
-2. 🗣 Commented on [#8758](https://github.com/gohugoio/hugo/issues/8758) in [gohugoio/hugo](https://github.com/gohugoio/hugo)
-3. 🎉 Merged PR [#746](https://github.com/CloudWithChris/cloudwithchris.com/pull/746) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 💪 Opened PR [#746](https://github.com/CloudWithChris/cloudwithchris.com/pull/746) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. ❗️ Opened issue [#8758](https://github.com/gohugoio/hugo/issues/8758) in [gohugoio/hugo](https://github.com/gohugoio/hugo)
+1. 🎉 Merged PR [#747](https://github.com/CloudWithChris/cloudwithchris.com/pull/747) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 💪 Opened PR [#747](https://github.com/CloudWithChris/cloudwithchris.com/pull/747) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 🗣 Commented on [#8568](https://github.com/gohugoio/hugo/issues/8568) in [gohugoio/hugo](https://github.com/gohugoio/hugo)
+4. 🗣 Commented on [#8758](https://github.com/gohugoio/hugo/issues/8758) in [gohugoio/hugo](https://github.com/gohugoio/hugo)
+5. 🎉 Merged PR [#746](https://github.com/CloudWithChris/cloudwithchris.com/pull/746) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

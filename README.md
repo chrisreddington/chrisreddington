@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#828](https://github.com/CloudWithChris/cloudwithchris.com/pull/828) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. ❌ Closed PR [#830](https://github.com/CloudWithChris/cloudwithchris.com/pull/830) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 🎉 Merged PR [#829](https://github.com/CloudWithChris/cloudwithchris.com/pull/829) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 💪 Opened PR [#828](https://github.com/CloudWithChris/cloudwithchris.com/pull/828) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 🎉 Merged PR [#827](https://github.com/CloudWithChris/cloudwithchris.com/pull/827) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. 💪 Opened PR [#832](https://github.com/CloudWithChris/cloudwithchris.com/pull/832) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 🎉 Merged PR [#831](https://github.com/CloudWithChris/cloudwithchris.com/pull/831) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 💪 Opened PR [#831](https://github.com/CloudWithChris/cloudwithchris.com/pull/831) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+4. 🎉 Merged PR [#828](https://github.com/CloudWithChris/cloudwithchris.com/pull/828) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. ❌ Closed PR [#830](https://github.com/CloudWithChris/cloudwithchris.com/pull/830) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#850](https://github.com/CloudWithChris/cloudwithchris.com/pull/850) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 🎉 Merged PR [#849](https://github.com/CloudWithChris/cloudwithchris.com/pull/849) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 🎉 Merged PR [#848](https://github.com/CloudWithChris/cloudwithchris.com/pull/848) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 💪 Opened PR [#848](https://github.com/CloudWithChris/cloudwithchris.com/pull/848) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 🎉 Merged PR [#847](https://github.com/CloudWithChris/cloudwithchris.com/pull/847) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. ❗️ Opened issue [#17](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals/issues/17) in [CloudWithChris/CloudWithChris.Integrations.Approvals](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals)
+2. ❗️ Opened issue [#16](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals/issues/16) in [CloudWithChris/CloudWithChris.Integrations.Approvals](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals)
+3. ❗️ Opened issue [#15](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals/issues/15) in [CloudWithChris/CloudWithChris.Integrations.Approvals](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals)
+4. ❗️ Opened issue [#14](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals/issues/14) in [CloudWithChris/CloudWithChris.Integrations.Approvals](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals)
+5. 🎉 Merged PR [#850](https://github.com/CloudWithChris/cloudwithchris.com/pull/850) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#863](https://github.com/CloudWithChris/cloudwithchris.com/pull/863) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 🎉 Merged PR [#862](https://github.com/CloudWithChris/cloudwithchris.com/pull/862) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 💪 Opened PR [#862](https://github.com/CloudWithChris/cloudwithchris.com/pull/862) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. ❌ Closed PR [#861](https://github.com/CloudWithChris/cloudwithchris.com/pull/861) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 💪 Opened PR [#861](https://github.com/CloudWithChris/cloudwithchris.com/pull/861) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. ❗️ Closed issue [#836](https://github.com/CloudWithChris/cloudwithchris.com/issues/836) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 🎉 Merged PR [#19](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals/pull/19) in [CloudWithChris/CloudWithChris.Integrations.Approvals](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals)
+3. 💪 Opened PR [#19](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals/pull/19) in [CloudWithChris/CloudWithChris.Integrations.Approvals](https://github.com/CloudWithChris/CloudWithChris.Integrations.Approvals)
+4. 🎉 Merged PR [#863](https://github.com/CloudWithChris/cloudwithchris.com/pull/863) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. 🎉 Merged PR [#862](https://github.com/CloudWithChris/cloudwithchris.com/pull/862) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

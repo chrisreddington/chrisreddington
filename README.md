@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#877](https://github.com/CloudWithChris/cloudwithchris.com/pull/877) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 🎉 Merged PR [#876](https://github.com/CloudWithChris/cloudwithchris.com/pull/876) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 🎉 Merged PR [#875](https://github.com/CloudWithChris/cloudwithchris.com/pull/875) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 💪 Opened PR [#875](https://github.com/CloudWithChris/cloudwithchris.com/pull/875) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. ❗️ Closed issue [#450](https://github.com/CloudWithChris/cloudwithchris.com/issues/450) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. 🎉 Merged PR [#878](https://github.com/CloudWithChris/cloudwithchris.com/pull/878) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 🎉 Merged PR [#877](https://github.com/CloudWithChris/cloudwithchris.com/pull/877) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 💪 Opened PR [#877](https://github.com/CloudWithChris/cloudwithchris.com/pull/877) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+4. 🎉 Merged PR [#876](https://github.com/CloudWithChris/cloudwithchris.com/pull/876) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. 🎉 Merged PR [#875](https://github.com/CloudWithChris/cloudwithchris.com/pull/875) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1123](https://github.com/CloudWithChris/cloudwithchris.com/pull/1123) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 💪 Opened PR [#1123](https://github.com/CloudWithChris/cloudwithchris.com/pull/1123) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 🗣 Commented on [#844](https://github.com/CloudWithChris/cloudwithchris.com/issues/844) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. 💪 Opened PR [#1124](https://github.com/CloudWithChris/cloudwithchris.com/pull/1124) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 🎉 Merged PR [#1123](https://github.com/CloudWithChris/cloudwithchris.com/pull/1123) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 💪 Opened PR [#1123](https://github.com/CloudWithChris/cloudwithchris.com/pull/1123) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 4. 🗣 Commented on [#844](https://github.com/CloudWithChris/cloudwithchris.com/issues/844) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. ❗️ Closed issue [#460](https://github.com/CloudWithChris/cloudwithchris.com/issues/460) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. 🗣 Commented on [#844](https://github.com/CloudWithChris/cloudwithchris.com/issues/844) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

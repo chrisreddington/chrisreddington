@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#618](https://github.com/kedacore/keda-docs/pull/618) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
-2. 🗣 Commented on [#618](https://github.com/kedacore/keda-docs/issues/618) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
-3. 💪 Opened PR [#618](https://github.com/kedacore/keda-docs/pull/618) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
-4. ❗️ Closed issue [#795](https://github.com/CloudWithChris/cloudwithchris.com/issues/795) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. ❗️ Closed issue [#783](https://github.com/CloudWithChris/cloudwithchris.com/issues/783) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. ❗️ Opened issue [#619](https://github.com/kedacore/keda-docs/issues/619) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+2. ❌ Closed PR [#618](https://github.com/kedacore/keda-docs/pull/618) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+3. 🗣 Commented on [#618](https://github.com/kedacore/keda-docs/issues/618) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+4. 💪 Opened PR [#618](https://github.com/kedacore/keda-docs/pull/618) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+5. ❗️ Closed issue [#795](https://github.com/CloudWithChris/cloudwithchris.com/issues/795) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

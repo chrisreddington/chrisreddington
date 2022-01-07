@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2029](https://github.com/dapr/docs/issues/2029) in [dapr/docs](https://github.com/dapr/docs)
-2. 🗣 Commented on [#1961](https://github.com/dapr/docs/issues/1961) in [dapr/docs](https://github.com/dapr/docs)
-3. ❗️ Opened issue [#619](https://github.com/kedacore/keda-docs/issues/619) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
-4. ❌ Closed PR [#618](https://github.com/kedacore/keda-docs/pull/618) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
-5. 🗣 Commented on [#618](https://github.com/kedacore/keda-docs/issues/618) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+1. 🗣 Commented on [#1872](https://github.com/dapr/docs/issues/1872) in [dapr/docs](https://github.com/dapr/docs)
+2. 🗣 Commented on [#1649](https://github.com/dapr/docs/issues/1649) in [dapr/docs](https://github.com/dapr/docs)
+3. 🗣 Commented on [#2029](https://github.com/dapr/docs/issues/2029) in [dapr/docs](https://github.com/dapr/docs)
+4. 🗣 Commented on [#1961](https://github.com/dapr/docs/issues/1961) in [dapr/docs](https://github.com/dapr/docs)
+5. ❗️ Opened issue [#619](https://github.com/kedacore/keda-docs/issues/619) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
 <!--END_SECTION:activity-->

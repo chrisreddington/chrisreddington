@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1130](https://github.com/CloudWithChris/cloudwithchris.com/pull/1130) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 🎉 Merged PR [#1129](https://github.com/CloudWithChris/cloudwithchris.com/pull/1129) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 💪 Opened PR [#1129](https://github.com/CloudWithChris/cloudwithchris.com/pull/1129) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 🗣 Commented on [#1872](https://github.com/dapr/docs/issues/1872) in [dapr/docs](https://github.com/dapr/docs)
-5. 🗣 Commented on [#1649](https://github.com/dapr/docs/issues/1649) in [dapr/docs](https://github.com/dapr/docs)
+1. 🎉 Merged PR [#1132](https://github.com/CloudWithChris/cloudwithchris.com/pull/1132) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 💪 Opened PR [#1132](https://github.com/CloudWithChris/cloudwithchris.com/pull/1132) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 🎉 Merged PR [#1130](https://github.com/CloudWithChris/cloudwithchris.com/pull/1130) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+4. 🎉 Merged PR [#1129](https://github.com/CloudWithChris/cloudwithchris.com/pull/1129) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. 💪 Opened PR [#1129](https://github.com/CloudWithChris/cloudwithchris.com/pull/1129) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

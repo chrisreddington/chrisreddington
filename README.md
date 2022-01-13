@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1134](https://github.com/CloudWithChris/cloudwithchris.com/pull/1134) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 💪 Opened PR [#86231](https://github.com/MicrosoftDocs/azure-docs/pull/86231) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-3. 🎉 Merged PR [#1133](https://github.com/CloudWithChris/cloudwithchris.com/pull/1133) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 💪 Opened PR [#1133](https://github.com/CloudWithChris/cloudwithchris.com/pull/1133) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 🎉 Merged PR [#1132](https://github.com/CloudWithChris/cloudwithchris.com/pull/1132) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. 🗣 Commented on [#68](https://github.com/microsoft/azure-container-apps/issues/68) in [microsoft/azure-container-apps](https://github.com/microsoft/azure-container-apps)
+2. 💪 Opened PR [#1134](https://github.com/CloudWithChris/cloudwithchris.com/pull/1134) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 💪 Opened PR [#86231](https://github.com/MicrosoftDocs/azure-docs/pull/86231) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+4. 🎉 Merged PR [#1133](https://github.com/CloudWithChris/cloudwithchris.com/pull/1133) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. 💪 Opened PR [#1133](https://github.com/CloudWithChris/cloudwithchris.com/pull/1133) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1138](https://github.com/CloudWithChris/cloudwithchris.com/pull/1138) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 🎉 Merged PR [#1137](https://github.com/CloudWithChris/cloudwithchris.com/pull/1137) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 💪 Opened PR [#1137](https://github.com/CloudWithChris/cloudwithchris.com/pull/1137) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. ❗️ Opened issue [#691](https://github.com/Azure/static-web-apps/issues/691) in [Azure/static-web-apps](https://github.com/Azure/static-web-apps)
-5. 🎉 Merged PR [#1135](https://github.com/CloudWithChris/cloudwithchris.com/pull/1135) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. ❗️ Closed issue [#891](https://github.com/CloudWithChris/cloudwithchris.com/issues/891) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. ❗️ Closed issue [#892](https://github.com/CloudWithChris/cloudwithchris.com/issues/892) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. ❗️ Closed issue [#902](https://github.com/CloudWithChris/cloudwithchris.com/issues/902) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+4. ❗️ Closed issue [#781](https://github.com/CloudWithChris/cloudwithchris.com/issues/781) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. ❗️ Closed issue [#782](https://github.com/CloudWithChris/cloudwithchris.com/issues/782) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

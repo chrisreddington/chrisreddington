@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/CloudWithChris/hugo-creator/issues/3) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-2. ❗️ Closed issue [#891](https://github.com/CloudWithChris/cloudwithchris.com/issues/891) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. ❗️ Closed issue [#892](https://github.com/CloudWithChris/cloudwithchris.com/issues/892) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. ❗️ Closed issue [#902](https://github.com/CloudWithChris/cloudwithchris.com/issues/902) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. ❗️ Closed issue [#781](https://github.com/CloudWithChris/cloudwithchris.com/issues/781) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. ❗️ Opened issue [#5](https://github.com/CloudWithChris/hugo-creator/issues/5) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+2. ❗️ Opened issue [#4](https://github.com/CloudWithChris/hugo-creator/issues/4) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+3. 🗣 Commented on [#3](https://github.com/CloudWithChris/hugo-creator/issues/3) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+4. 🗣 Commented on [#5](https://github.com/Sam-Rowe/scaling-adventure/issues/5) in [Sam-Rowe/scaling-adventure](https://github.com/Sam-Rowe/scaling-adventure)
+5. ❗️ Opened issue [#5](https://github.com/Sam-Rowe/scaling-adventure/issues/5) in [Sam-Rowe/scaling-adventure](https://github.com/Sam-Rowe/scaling-adventure)
 <!--END_SECTION:activity-->

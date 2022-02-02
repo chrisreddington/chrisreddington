@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/CloudWithChris/hugo-creator/issues/29) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-2. ❗️ Opened issue [#28](https://github.com/CloudWithChris/hugo-creator/issues/28) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-3. ❗️ Opened issue [#27](https://github.com/CloudWithChris/hugo-creator/issues/27) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-4. ❗️ Opened issue [#26](https://github.com/CloudWithChris/hugo-creator/issues/26) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-5. 💪 Opened PR [#25](https://github.com/CloudWithChris/hugo-creator/pull/25) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+1. 🎉 Merged PR [#25](https://github.com/CloudWithChris/hugo-creator/pull/25) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+2. ❗️ Closed issue [#23](https://github.com/CloudWithChris/hugo-creator/issues/23) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+3. ❗️ Closed issue [#27](https://github.com/CloudWithChris/hugo-creator/issues/27) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+4. ❗️ Closed issue [#2](https://github.com/CloudWithChris/hugo-creator/issues/2) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+5. ❗️ Closed issue [#7](https://github.com/CloudWithChris/hugo-creator/issues/7) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
 <!--END_SECTION:activity-->

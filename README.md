@@ -34,9 +34,9 @@ https://img.shields.io/website?down_color=red&down_message=down&up_color=green&u
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/CloudWithChris/hugo-creator/pull/39) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-2. 💪 Opened PR [#39](https://github.com/CloudWithChris/hugo-creator/pull/39) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-3. 🎉 Merged PR [#37](https://github.com/CloudWithChris/hugo-creator/pull/37) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-4. 💪 Opened PR [#37](https://github.com/CloudWithChris/hugo-creator/pull/37) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-5. 🎉 Merged PR [#35](https://github.com/CloudWithChris/hugo-creator/pull/35) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+1. 🎉 Merged PR [#41](https://github.com/CloudWithChris/hugo-creator/pull/41) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+2. 💪 Opened PR [#41](https://github.com/CloudWithChris/hugo-creator/pull/41) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+3. 🎉 Merged PR [#39](https://github.com/CloudWithChris/hugo-creator/pull/39) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+4. 💪 Opened PR [#39](https://github.com/CloudWithChris/hugo-creator/pull/39) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+5. 🎉 Merged PR [#37](https://github.com/CloudWithChris/hugo-creator/pull/37) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
 <!--END_SECTION:activity-->

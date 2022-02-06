@@ -1,11 +1,17 @@
 ## Projects
 
 ### [Chris Reddington](https://github.com/chrisreddington/)
+
+Hi! I'm Chris Reddington, a Cloud Solution Architect @ Microsoft UK. The repos under my profile and the CloudWithChris org are not endorsed in any way by my employer. Use at your own risk.
+
 [![GitHub Badge](https://img.shields.io/github/followers/chrisreddington?style=social)](https://github.com/chrisreddington)
 [![Twitter Badge](https://img.shields.io/twitter/follow/reddobowen?style=social)](https://twitter.com/intent/follow?screen_name=reddobowen "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-chrisreddington-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisreddington/)](https://www.linkedin.com/in/chrisreddington/)
 
-### [Cloud with Chris](https://github.com/cloudwithchris/cloudwithchris.com)
+### [Cloud with Chris](https://github.com/cloudwithchris/cloudwithchris.com)\
+
+Cloud With Chris is my community-focused podcast, where we exploring Cloud concepts. We will regularly invite guests to talk about their experiences with the cloud and hear about some of the lessons learned around their cloud journey.
+
 [![Website Badge](
 https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=Up&url=https%3A%2F%2Fwww.cloudwithchris.com)](https://www.cloudwithchris.com)
 [![Website Badge](
@@ -19,6 +25,8 @@ https://img.shields.io/security-headers?url=https%3A%2F%2Fwww.cloudwithchris.com
 
 
 ### [Hugo Creator Theme](https://github.com/cloudwithchris/hugo-creator)
+
+Based on my work on Cloud With Chris, I decided to go a step further and contribute my site's theme to the OSS Community. Creator is a theme for the Hugo Static Site Generator, and is intended for content contributors. I absolutely welcome contributions, so if you're looking for a project to get into Open Source, or get your teeth into it Hugo - please take a look!
 
 [![MIT License](https://img.shields.io/github/license/cloudwithchris/hugo-creator)](https://github.com/CloudWithChris/hugo-creator/blob/main/LICENSE "MIT License")
 [![Latest Commit](https://img.shields.io/github/last-commit/cloudwithchris/hugo-creator)](https://github.com/CloudWithChris/hugo-creator/ "Latest Commit")

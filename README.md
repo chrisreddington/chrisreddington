@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1142](https://github.com/CloudWithChris/cloudwithchris.com/pull/1142) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 💪 Opened PR [#1142](https://github.com/CloudWithChris/cloudwithchris.com/pull/1142) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 🎉 Merged PR [#45](https://github.com/CloudWithChris/hugo-creator/pull/45) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-4. 💪 Opened PR [#45](https://github.com/CloudWithChris/hugo-creator/pull/45) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-5. 🎉 Merged PR [#43](https://github.com/CloudWithChris/hugo-creator/pull/43) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+1. 🗣 Commented on [#3](https://github.com/CloudWithChris/hugo-creator/issues/3) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+2. ❌ Closed PR [#314](https://github.com/mattstratton/castanet/pull/314) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+3. ❌ Closed PR [#315](https://github.com/mattstratton/castanet/pull/315) in [mattstratton/castanet](https://github.com/mattstratton/castanet)
+4. 🎉 Merged PR [#1](https://github.com/chrisreddington/Learning/pull/1) in [chrisreddington/Learning](https://github.com/chrisreddington/Learning)
+5. 🎉 Merged PR [#1142](https://github.com/CloudWithChris/cloudwithchris.com/pull/1142) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

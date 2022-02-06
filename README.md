@@ -1,13 +1,30 @@
+## Projects
+
 ### [Chris Reddington](https://github.com/chrisreddington/)
-[![GitHub Badge](https://img.shields.io/badge/-@chrisreddington-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/chrisreddington)](https://github.com/chrisreddington)
-[![Twitter Badge](https://img.shields.io/badge/-@reddobowen-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=reddobowen "Follow on Twitter")
+[![GitHub Badge](https://img.shields.io/github/followers/chrisreddington?style=social)](https://github.com/chrisreddington)
+[![Twitter Badge](https://img.shields.io/twitter/follow/reddobowen?style=social)](https://twitter.com/intent/follow?screen_name=reddobowen "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-chrisreddington-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisreddington/)](https://www.linkedin.com/in/chrisreddington/)
 
-### [Cloud with Chris](https://github.com/chrisreddington/cloudwithchris.com)
+### [Cloud with Chris](https://github.com/cloudwithchris/cloudwithchris.com)
 [![Website Badge](
 https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=Up&url=https%3A%2F%2Fwww.cloudwithchris.com)](https://www.cloudwithchris.com)
-[![Twitter Badge](https://img.shields.io/badge/-@CloudWithChris-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=CloudWithChris "Follow on Twitter")
-[![YouTube Badge](https://img.shields.io/badge/-CloudWithChris-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC6KrOsGhSVJBszv_AwbcMxA)](https://www.youtube.com/channel/UC6KrOsGhSVJBszv_AwbcMxA "Subscribe on YouTube")
+[![Website Badge](
+https://img.shields.io/security-headers?url=https%3A%2F%2Fwww.cloudwithchris.com)](https://www.cloudwithchris.com)
+[![GitHub Discussions Badge](https://img.shields.io/github/discussions/cloudwithchris/cloudwithchris.com)](https://github.com/CloudWithChris/cloudwithchris.com/discussions "Join in on the discussion")
+
+
+[![Discord Badge](https://img.shields.io/discord/789465995672551424?label=Discord)](https://discord.gg/vVRG3hf4 "Join the Discord Server")
+[![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UC6KrOsGhSVJBszv_AwbcMxA?style=social)](https://www.youtube.com/c/CloudWithChris/ "Subscribe on YouTube")
+[![Twitch Badge](https://img.shields.io/twitch/status/CloudWithChris?style=social)](https://twitch.tv/CloudWithChris "Follow on Twitch")
+
+
+### [Hugo Creator Theme](https://github.com/cloudwithchris/hugo-creator)
+
+[![MIT License](https://img.shields.io/github/license/cloudwithchris/hugo-creator)](https://github.com/CloudWithChris/hugo-creator/blob/main/LICENSE "MIT License")
+[![Latest Commit](https://img.shields.io/github/last-commit/cloudwithchris/hugo-creator)](https://github.com/CloudWithChris/hugo-creator/ "Latest Commit")
+[![GitHub Issues](https://img.shields.io/github/issues/cloudwithchris/hugo-creator)](https://github.com/CloudWithChris/hugo-creator/issues "Review open issues")
+
+## About Me
 
 ### Languages and Tools:
 

@@ -8,7 +8,7 @@ Hi! I'm Chris Reddington, a Cloud Solution Architect @ Microsoft UK. The repos u
 [![Twitter Badge](https://img.shields.io/twitter/follow/reddobowen?style=social)](https://twitter.com/intent/follow?screen_name=reddobowen "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-chrisreddington-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisreddington/)](https://www.linkedin.com/in/chrisreddington/)
 
-### [Cloud with Chris](https://github.com/cloudwithchris/cloudwithchris.com)\
+### [Cloud with Chris](https://github.com/cloudwithchris/cloudwithchris.com)
 
 Cloud With Chris is my community-focused podcast, where we exploring Cloud concepts. We will regularly invite guests to talk about their experiences with the cloud and hear about some of the lessons learned around their cloud journey.
 

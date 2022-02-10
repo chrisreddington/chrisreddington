@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/CloudWithChris/Toolup-Tuesday/issues/13) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
-2. 🗣 Commented on [#13](https://github.com/CloudWithChris/Toolup-Tuesday/issues/13) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
-3. 🗣 Commented on [#3](https://github.com/CloudWithChris/Toolup-Tuesday/issues/3) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
-4. ❗️ Opened issue [#63](https://github.com/CloudWithChris/hugo-creator/issues/63) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-5. ❗️ Opened issue [#62](https://github.com/CloudWithChris/hugo-creator/issues/62) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+1. 🎉 Merged PR [#1146](https://github.com/CloudWithChris/cloudwithchris.com/pull/1146) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 💪 Opened PR [#1146](https://github.com/CloudWithChris/cloudwithchris.com/pull/1146) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. ❗️ Closed issue [#13](https://github.com/CloudWithChris/Toolup-Tuesday/issues/13) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
+4. 🗣 Commented on [#13](https://github.com/CloudWithChris/Toolup-Tuesday/issues/13) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
+5. 🗣 Commented on [#3](https://github.com/CloudWithChris/Toolup-Tuesday/issues/3) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
 <!--END_SECTION:activity-->

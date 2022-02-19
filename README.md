@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1732](https://github.com/kedacore/keda/issues/1732) in [kedacore/keda](https://github.com/kedacore/keda)
-2. ❗️ Opened issue [#1](https://github.com/chrisreddington/CV/issues/1) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
-3. 🗣 Commented on [#21](https://github.com/CloudWithChris/hugo-creator/issues/21) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-4. 🎉 Merged PR [#1153](https://github.com/CloudWithChris/cloudwithchris.com/pull/1153) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 💪 Opened PR [#1153](https://github.com/CloudWithChris/cloudwithchris.com/pull/1153) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. ❌ Closed PR [#48](https://github.com/CloudWithChris/hugo-creator/pull/48) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+2. 🗣 Commented on [#48](https://github.com/CloudWithChris/hugo-creator/issues/48) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+3. 🎉 Merged PR [#70](https://github.com/CloudWithChris/hugo-creator/pull/70) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+4. ❗️ Closed issue [#21](https://github.com/CloudWithChris/hugo-creator/issues/21) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+5. ❗️ Closed issue [#56](https://github.com/CloudWithChris/hugo-creator/issues/56) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
 <!--END_SECTION:activity-->

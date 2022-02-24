@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com/CloudWithChris/hugo-creator/pull/76) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-2. ❗️ Closed issue [#26](https://github.com/CloudWithChris/hugo-creator/issues/26) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-3. ❗️ Opened issue [#78](https://github.com/CloudWithChris/hugo-creator/issues/78) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-4. ❗️ Opened issue [#77](https://github.com/CloudWithChris/hugo-creator/issues/77) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-5. 🗣 Commented on [#59](https://github.com/CloudWithChris/hugo-creator/issues/59) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+1. ❗️ Opened issue [#6](https://github.com/CloudWithChris/presentations/issues/6) in [CloudWithChris/presentations](https://github.com/CloudWithChris/presentations)
+2. ❗️ Opened issue [#5](https://github.com/CloudWithChris/presentations/issues/5) in [CloudWithChris/presentations](https://github.com/CloudWithChris/presentations)
+3. ❗️ Opened issue [#4](https://github.com/CloudWithChris/presentations/issues/4) in [CloudWithChris/presentations](https://github.com/CloudWithChris/presentations)
+4. ❗️ Opened issue [#3](https://github.com/CloudWithChris/presentations/issues/3) in [CloudWithChris/presentations](https://github.com/CloudWithChris/presentations)
+5. ❗️ Opened issue [#2](https://github.com/CloudWithChris/presentations/issues/2) in [CloudWithChris/presentations](https://github.com/CloudWithChris/presentations)
 <!--END_SECTION:activity-->

@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#115](https://github.com/dzello/reveal-hugo/pull/115) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
-2. 🗣 Commented on [#93](https://github.com/dzello/reveal-hugo/issues/93) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
-3. 🗣 Commented on [#91](https://github.com/dzello/reveal-hugo/issues/91) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
-4. 🎉 Merged PR [#76](https://github.com/CloudWithChris/hugo-creator/pull/76) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-5. ❗️ Closed issue [#26](https://github.com/CloudWithChris/hugo-creator/issues/26) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+1. 🗣 Commented on [#115](https://github.com/dzello/reveal-hugo/issues/115) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
+2. 💪 Opened PR [#115](https://github.com/dzello/reveal-hugo/pull/115) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
+3. 🗣 Commented on [#93](https://github.com/dzello/reveal-hugo/issues/93) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
+4. 🗣 Commented on [#91](https://github.com/dzello/reveal-hugo/issues/91) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
+5. 🎉 Merged PR [#76](https://github.com/CloudWithChris/hugo-creator/pull/76) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
 <!--END_SECTION:activity-->

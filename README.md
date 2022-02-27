@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1160](https://github.com/CloudWithChris/cloudwithchris.com/pull/1160) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 💪 Opened PR [#79](https://github.com/CloudWithChris/hugo-creator/pull/79) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-3. 🗣 Commented on [#91](https://github.com/dzello/reveal-hugo/issues/91) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
-4. 🗣 Commented on [#115](https://github.com/dzello/reveal-hugo/issues/115) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
-5. 💪 Opened PR [#115](https://github.com/dzello/reveal-hugo/pull/115) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
+1. 🎉 Merged PR [#1160](https://github.com/CloudWithChris/cloudwithchris.com/pull/1160) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 💪 Opened PR [#1160](https://github.com/CloudWithChris/cloudwithchris.com/pull/1160) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 💪 Opened PR [#79](https://github.com/CloudWithChris/hugo-creator/pull/79) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+4. 🗣 Commented on [#91](https://github.com/dzello/reveal-hugo/issues/91) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
+5. 🗣 Commented on [#115](https://github.com/dzello/reveal-hugo/issues/115) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
 <!--END_SECTION:activity-->

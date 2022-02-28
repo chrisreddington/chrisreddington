@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#86](https://github.com/CloudWithChris/hugo-creator/issues/86) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-2. ❗️ Opened issue [#84](https://github.com/CloudWithChris/hugo-creator/issues/84) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-3. ❗️ Opened issue [#83](https://github.com/CloudWithChris/hugo-creator/issues/83) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-4. 🗣 Commented on [#115](https://github.com/dzello/reveal-hugo/issues/115) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
-5. ❗️ Opened issue [#82](https://github.com/CloudWithChris/hugo-creator/issues/82) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+1. ❗️ Opened issue [#87](https://github.com/CloudWithChris/hugo-creator/issues/87) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+2. 🗣 Commented on [#85](https://github.com/CloudWithChris/hugo-creator/issues/85) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+3. ❗️ Opened issue [#86](https://github.com/CloudWithChris/hugo-creator/issues/86) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+4. ❗️ Opened issue [#84](https://github.com/CloudWithChris/hugo-creator/issues/84) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+5. ❗️ Opened issue [#83](https://github.com/CloudWithChris/hugo-creator/issues/83) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
 <!--END_SECTION:activity-->

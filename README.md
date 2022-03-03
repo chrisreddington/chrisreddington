@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/CloudWithChris/hugo-creator/pull/88) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-2. ❗️ Closed issue [#87](https://github.com/CloudWithChris/hugo-creator/issues/87) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-3. 💪 Opened PR [#88](https://github.com/CloudWithChris/hugo-creator/pull/88) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-4. ❗️ Closed issue [#85](https://github.com/CloudWithChris/hugo-creator/issues/85) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-5. 🗣 Commented on [#85](https://github.com/CloudWithChris/hugo-creator/issues/85) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+1. ❗️ Opened issue [#16](https://github.com/chrisreddington/CV/issues/16) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
+2. ❗️ Opened issue [#15](https://github.com/chrisreddington/CV/issues/15) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
+3. ❗️ Opened issue [#14](https://github.com/chrisreddington/CV/issues/14) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
+4. ❗️ Opened issue [#13](https://github.com/chrisreddington/CV/issues/13) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
+5. ❗️ Opened issue [#12](https://github.com/chrisreddington/CV/issues/12) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
 <!--END_SECTION:activity-->

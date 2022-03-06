@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/chrisreddington/CV/issues/3) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
-2. ❗️ Closed issue [#13](https://github.com/chrisreddington/CV/issues/13) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
-3. ❗️ Closed issue [#12](https://github.com/chrisreddington/CV/issues/12) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
-4. ❗️ Closed issue [#8](https://github.com/chrisreddington/CV/issues/8) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
-5. ❗️ Closed issue [#4](https://github.com/chrisreddington/CV/issues/4) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
+1. ❗️ Closed issue [#9](https://github.com/chrisreddington/CV/issues/9) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
+2. ❗️ Closed issue [#11](https://github.com/chrisreddington/CV/issues/11) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
+3. ❗️ Closed issue [#3](https://github.com/chrisreddington/CV/issues/3) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
+4. ❗️ Closed issue [#13](https://github.com/chrisreddington/CV/issues/13) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
+5. ❗️ Closed issue [#12](https://github.com/chrisreddington/CV/issues/12) in [chrisreddington/CV](https://github.com/chrisreddington/CV)
 <!--END_SECTION:activity-->

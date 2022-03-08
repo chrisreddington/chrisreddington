@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/microsoft/OpenHack/issues/97) in [microsoft/OpenHack](https://github.com/microsoft/OpenHack)
-2. ❗️ Opened issue [#97](https://github.com/microsoft/OpenHack/issues/97) in [microsoft/OpenHack](https://github.com/microsoft/OpenHack)
-3. 🗣 Commented on [#115](https://github.com/dzello/reveal-hugo/issues/115) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
-4. 🎉 Merged PR [#1163](https://github.com/CloudWithChris/cloudwithchris.com/pull/1163) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 💪 Opened PR [#1163](https://github.com/CloudWithChris/cloudwithchris.com/pull/1163) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. ❗️ Opened issue [#16](https://github.com/CloudWithChris/Toolup-Tuesday/issues/16) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
+2. 🗣 Commented on [#97](https://github.com/microsoft/OpenHack/issues/97) in [microsoft/OpenHack](https://github.com/microsoft/OpenHack)
+3. ❗️ Opened issue [#97](https://github.com/microsoft/OpenHack/issues/97) in [microsoft/OpenHack](https://github.com/microsoft/OpenHack)
+4. 🗣 Commented on [#115](https://github.com/dzello/reveal-hugo/issues/115) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
+5. 🎉 Merged PR [#1163](https://github.com/CloudWithChris/cloudwithchris.com/pull/1163) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/CloudWithChris/Toolup-Tuesday/issues/17) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
-2. ❗️ Opened issue [#16](https://github.com/CloudWithChris/Toolup-Tuesday/issues/16) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
-3. 🗣 Commented on [#97](https://github.com/microsoft/OpenHack/issues/97) in [microsoft/OpenHack](https://github.com/microsoft/OpenHack)
-4. ❗️ Opened issue [#97](https://github.com/microsoft/OpenHack/issues/97) in [microsoft/OpenHack](https://github.com/microsoft/OpenHack)
-5. 🗣 Commented on [#115](https://github.com/dzello/reveal-hugo/issues/115) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
+1. 🗣 Commented on [#1](https://github.com/gohugoio/gohugoioTheme2/issues/1) in [gohugoio/gohugoioTheme2](https://github.com/gohugoio/gohugoioTheme2)
+2. ❗️ Opened issue [#17](https://github.com/CloudWithChris/Toolup-Tuesday/issues/17) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
+3. ❗️ Opened issue [#16](https://github.com/CloudWithChris/Toolup-Tuesday/issues/16) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
+4. 🗣 Commented on [#97](https://github.com/microsoft/OpenHack/issues/97) in [microsoft/OpenHack](https://github.com/microsoft/OpenHack)
+5. ❗️ Opened issue [#97](https://github.com/microsoft/OpenHack/issues/97) in [microsoft/OpenHack](https://github.com/microsoft/OpenHack)
 <!--END_SECTION:activity-->

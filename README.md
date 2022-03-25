@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1173](https://github.com/CloudWithChris/cloudwithchris.com/issues/1173) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. ❗️ Opened issue [#1172](https://github.com/CloudWithChris/cloudwithchris.com/issues/1172) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. ❗️ Opened issue [#1171](https://github.com/CloudWithChris/cloudwithchris.com/issues/1171) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 🎉 Merged PR [#1170](https://github.com/CloudWithChris/cloudwithchris.com/pull/1170) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. ❗️ Closed issue [#303](https://github.com/CloudWithChris/cloudwithchris.com/issues/303) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. ❌ Closed PR [#1174](https://github.com/CloudWithChris/cloudwithchris.com/pull/1174) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 💪 Opened PR [#1174](https://github.com/CloudWithChris/cloudwithchris.com/pull/1174) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. ❗️ Opened issue [#1173](https://github.com/CloudWithChris/cloudwithchris.com/issues/1173) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+4. ❗️ Opened issue [#1172](https://github.com/CloudWithChris/cloudwithchris.com/issues/1172) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. ❗️ Opened issue [#1171](https://github.com/CloudWithChris/cloudwithchris.com/issues/1171) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#115](https://github.com/dzello/reveal-hugo/issues/115) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
-2. ❗️ Closed issue [#13102](https://github.com/microsoft/playwright/issues/13102) in [microsoft/playwright](https://github.com/microsoft/playwright)
-3. 🗣 Commented on [#13102](https://github.com/microsoft/playwright/issues/13102) in [microsoft/playwright](https://github.com/microsoft/playwright)
-4. 🗣 Commented on [#13102](https://github.com/microsoft/playwright/issues/13102) in [microsoft/playwright](https://github.com/microsoft/playwright)
-5. 🗣 Commented on [#1183](https://github.com/CloudWithChris/cloudwithchris.com/issues/1183) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. 🎉 Merged PR [#1184](https://github.com/CloudWithChris/cloudwithchris.com/pull/1184) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 💪 Opened PR [#1184](https://github.com/CloudWithChris/cloudwithchris.com/pull/1184) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 🗣 Commented on [#115](https://github.com/dzello/reveal-hugo/issues/115) in [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo)
+4. ❗️ Closed issue [#13102](https://github.com/microsoft/playwright/issues/13102) in [microsoft/playwright](https://github.com/microsoft/playwright)
+5. 🗣 Commented on [#13102](https://github.com/microsoft/playwright/issues/13102) in [microsoft/playwright](https://github.com/microsoft/playwright)
 <!--END_SECTION:activity-->

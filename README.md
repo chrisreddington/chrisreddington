@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/CloudWithChris/hugo-creator/issues/58) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-2. ❗️ Closed issue [#77](https://github.com/CloudWithChris/hugo-creator/issues/77) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-3. ❗️ Closed issue [#84](https://github.com/CloudWithChris/hugo-creator/issues/84) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-4. ❗️ Opened issue [#4](https://github.com/CloudWithChris/presentations.cloudwithchris.com/issues/4) in [CloudWithChris/presentations.cloudwithchris.com](https://github.com/CloudWithChris/presentations.cloudwithchris.com)
-5. 🎉 Merged PR [#1184](https://github.com/CloudWithChris/cloudwithchris.com/pull/1184) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. ❗️ Opened issue [#6](https://github.com/CloudWithChris/presentations.cloudwithchris.com/issues/6) in [CloudWithChris/presentations.cloudwithchris.com](https://github.com/CloudWithChris/presentations.cloudwithchris.com)
+2. ❗️ Opened issue [#5](https://github.com/CloudWithChris/presentations.cloudwithchris.com/issues/5) in [CloudWithChris/presentations.cloudwithchris.com](https://github.com/CloudWithChris/presentations.cloudwithchris.com)
+3. 🗣 Commented on [#58](https://github.com/CloudWithChris/hugo-creator/issues/58) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+4. ❗️ Closed issue [#77](https://github.com/CloudWithChris/hugo-creator/issues/77) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+5. ❗️ Closed issue [#84](https://github.com/CloudWithChris/hugo-creator/issues/84) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
 <!--END_SECTION:activity-->

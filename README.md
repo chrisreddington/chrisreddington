@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/chrisreddington/examples/pull/1) in [chrisreddington/examples](https://github.com/chrisreddington/examples)
-2. ❗️ Opened issue [#1218](https://github.com/CloudWithChris/cloudwithchris.com/issues/1218) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. ❌ Closed PR [#1](https://github.com/CloudWithChris/hugo-portfolio-example/pull/1) in [CloudWithChris/hugo-portfolio-example](https://github.com/CloudWithChris/hugo-portfolio-example)
-4. 💪 Opened PR [#11](https://github.com/chrisreddington/OctoPetShop/pull/11) in [chrisreddington/OctoPetShop](https://github.com/chrisreddington/OctoPetShop)
-5. ❌ Closed PR [#10](https://github.com/chrisreddington/OctoPetShop/pull/10) in [chrisreddington/OctoPetShop](https://github.com/chrisreddington/OctoPetShop)
+1. 💪 Opened PR [#1](https://github.com/test-summary/examples/pull/1) in [test-summary/examples](https://github.com/test-summary/examples)
+2. 🎉 Merged PR [#1](https://github.com/chrisreddington/examples/pull/1) in [chrisreddington/examples](https://github.com/chrisreddington/examples)
+3. 💪 Opened PR [#1](https://github.com/chrisreddington/examples/pull/1) in [chrisreddington/examples](https://github.com/chrisreddington/examples)
+4. ❗️ Opened issue [#1218](https://github.com/CloudWithChris/cloudwithchris.com/issues/1218) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. ❌ Closed PR [#1](https://github.com/CloudWithChris/hugo-portfolio-example/pull/1) in [CloudWithChris/hugo-portfolio-example](https://github.com/CloudWithChris/hugo-portfolio-example)
 <!--END_SECTION:activity-->

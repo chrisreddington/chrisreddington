@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1226](https://github.com/CloudWithChris/cloudwithchris.com/pull/1226) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 🎉 Merged PR [#21](https://github.com/CloudWithChris/Toolup-Tuesday/pull/21) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
-3. 💪 Opened PR [#21](https://github.com/CloudWithChris/Toolup-Tuesday/pull/21) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
-4. 🎉 Merged PR [#1221](https://github.com/CloudWithChris/cloudwithchris.com/pull/1221) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 💪 Opened PR [#1221](https://github.com/CloudWithChris/cloudwithchris.com/pull/1221) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. 🎉 Merged PR [#1226](https://github.com/CloudWithChris/cloudwithchris.com/pull/1226) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 💪 Opened PR [#1226](https://github.com/CloudWithChris/cloudwithchris.com/pull/1226) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 🎉 Merged PR [#21](https://github.com/CloudWithChris/Toolup-Tuesday/pull/21) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
+4. 💪 Opened PR [#21](https://github.com/CloudWithChris/Toolup-Tuesday/pull/21) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
+5. 🎉 Merged PR [#1221](https://github.com/CloudWithChris/cloudwithchris.com/pull/1221) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

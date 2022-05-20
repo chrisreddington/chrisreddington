@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/test-summary/action/issues/6) in [test-summary/action](https://github.com/test-summary/action)
-2. 🎉 Merged PR [#1226](https://github.com/CloudWithChris/cloudwithchris.com/pull/1226) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 💪 Opened PR [#1226](https://github.com/CloudWithChris/cloudwithchris.com/pull/1226) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 🎉 Merged PR [#21](https://github.com/CloudWithChris/Toolup-Tuesday/pull/21) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
-5. 💪 Opened PR [#21](https://github.com/CloudWithChris/Toolup-Tuesday/pull/21) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
+1. ❗️ Opened issue [#25](https://github.com/fortunkam/QuizzR/issues/25) in [fortunkam/QuizzR](https://github.com/fortunkam/QuizzR)
+2. ❗️ Opened issue [#24](https://github.com/fortunkam/QuizzR/issues/24) in [fortunkam/QuizzR](https://github.com/fortunkam/QuizzR)
+3. ❗️ Opened issue [#23](https://github.com/fortunkam/QuizzR/issues/23) in [fortunkam/QuizzR](https://github.com/fortunkam/QuizzR)
+4. ❗️ Opened issue [#6](https://github.com/test-summary/action/issues/6) in [test-summary/action](https://github.com/test-summary/action)
+5. 🎉 Merged PR [#1226](https://github.com/CloudWithChris/cloudwithchris.com/pull/1226) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

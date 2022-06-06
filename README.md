@@ -60,8 +60,8 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1611](https://github.com/gohugoio/hugoDocs/issues/1611) in [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)
-2. ❗️ Closed issue [#58](https://github.com/CloudWithChris/hugo-creator/issues/58) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-3. 🗣 Commented on [#58](https://github.com/CloudWithChris/hugo-creator/issues/58) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-4. 🎉 Merged PR [#1230](https://github.com/CloudWithChris/cloudwithchris.com/pull/1230) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 💪 Opened PR [#1230](https://github.com/CloudWithChris/cloudwithchris.com/pull/1230) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 🗣 Commented on [#1611](https://github.com/gohugoio/hugoDocs/issues/1611) in [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)
+3. ❗️ Closed issue [#58](https://github.com/CloudWithChris/hugo-creator/issues/58) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+4. 🗣 Commented on [#58](https://github.com/CloudWithChris/hugo-creator/issues/58) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+5. 🎉 Merged PR [#1230](https://github.com/CloudWithChris/cloudwithchris.com/pull/1230) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

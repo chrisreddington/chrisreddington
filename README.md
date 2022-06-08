@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1231](https://github.com/CloudWithChris/cloudwithchris.com/pull/1231) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 🎉 Merged PR [#1232](https://github.com/CloudWithChris/cloudwithchris.com/pull/1232) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 🎉 Merged PR [#1233](https://github.com/CloudWithChris/cloudwithchris.com/pull/1233) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 💪 Opened PR [#1233](https://github.com/CloudWithChris/cloudwithchris.com/pull/1233) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 🗣 Commented on [#1611](https://github.com/gohugoio/hugoDocs/issues/1611) in [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)
+1. ❗️ Opened issue [#5](https://github.com/chrisreddington/personal-development-plan/issues/5) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
+2. ❗️ Opened issue [#4](https://github.com/chrisreddington/personal-development-plan/issues/4) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
+3. ❗️ Opened issue [#3](https://github.com/chrisreddington/personal-development-plan/issues/3) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
+4. 🎉 Merged PR [#1231](https://github.com/CloudWithChris/cloudwithchris.com/pull/1231) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. 🎉 Merged PR [#1232](https://github.com/CloudWithChris/cloudwithchris.com/pull/1232) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

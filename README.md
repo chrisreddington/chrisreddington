@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/chrisreddington/personal-development-plan/issues/6) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
-2. ❗️ Opened issue [#5](https://github.com/chrisreddington/personal-development-plan/issues/5) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
-3. ❗️ Opened issue [#4](https://github.com/chrisreddington/personal-development-plan/issues/4) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
-4. ❗️ Opened issue [#3](https://github.com/chrisreddington/personal-development-plan/issues/3) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
-5. 🎉 Merged PR [#1231](https://github.com/CloudWithChris/cloudwithchris.com/pull/1231) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. ❗️ Opened issue [#7](https://github.com/chrisreddington/personal-development-plan/issues/7) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
+2. ❗️ Opened issue [#6](https://github.com/chrisreddington/personal-development-plan/issues/6) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
+3. ❗️ Opened issue [#5](https://github.com/chrisreddington/personal-development-plan/issues/5) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
+4. ❗️ Opened issue [#4](https://github.com/chrisreddington/personal-development-plan/issues/4) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
+5. ❗️ Opened issue [#3](https://github.com/chrisreddington/personal-development-plan/issues/3) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
 <!--END_SECTION:activity-->

@@ -2,7 +2,7 @@
 
 ### [Chris Reddington](https://github.com/chrisreddington/)
 
-Hi! I'm Chris Reddington, a Cloud Solution Architect @ Microsoft UK. The repos under my profile and the CloudWithChris org are not endorsed in any way by my employer. Use at your own risk.
+Hi! I'm Chris Reddington, an Enterprise Advocate (aka a eveloper advocate helping enterprise devs ❤️ GitHub). The repos under my profile and the CloudWithChris org are not endorsed in any way by my employer. Use at your own risk.
 
 [![GitHub Badge](https://img.shields.io/github/followers/chrisreddington?style=social)](https://github.com/chrisreddington)
 [![Twitter Badge](https://img.shields.io/twitter/follow/reddobowen?style=social)](https://twitter.com/intent/follow?screen_name=reddobowen "Follow on Twitter")

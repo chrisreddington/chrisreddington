@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1234](https://github.com/CloudWithChris/cloudwithchris.com/pull/1234) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 🎉 Merged PR [#1235](https://github.com/CloudWithChris/cloudwithchris.com/pull/1235) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. ❗️ Opened issue [#9](https://github.com/chrisreddington/personal-development-plan/issues/9) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
-4. ❗️ Opened issue [#8](https://github.com/chrisreddington/personal-development-plan/issues/8) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
-5. ❗️ Opened issue [#7](https://github.com/chrisreddington/personal-development-plan/issues/7) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
+1. 🎉 Merged PR [#1242](https://github.com/CloudWithChris/cloudwithchris.com/pull/1242) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 🎉 Merged PR [#1240](https://github.com/CloudWithChris/cloudwithchris.com/pull/1240) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 🎉 Merged PR [#1234](https://github.com/CloudWithChris/cloudwithchris.com/pull/1234) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+4. 🎉 Merged PR [#1235](https://github.com/CloudWithChris/cloudwithchris.com/pull/1235) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. ❗️ Opened issue [#9](https://github.com/chrisreddington/personal-development-plan/issues/9) in [chrisreddington/personal-development-plan](https://github.com/chrisreddington/personal-development-plan)
 <!--END_SECTION:activity-->

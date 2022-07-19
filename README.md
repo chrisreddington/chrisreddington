@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1244](https://github.com/CloudWithChris/cloudwithchris.com/pull/1244) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 🎉 Merged PR [#103](https://github.com/CloudWithChris/hugo-creator/pull/103) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
-3. 🎉 Merged PR [#1243](https://github.com/CloudWithChris/cloudwithchris.com/pull/1243) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 🗣 Commented on [#1241](https://github.com/CloudWithChris/cloudwithchris.com/issues/1241) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 🎉 Merged PR [#1241](https://github.com/CloudWithChris/cloudwithchris.com/pull/1241) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. 🎉 Merged PR [#1245](https://github.com/CloudWithChris/cloudwithchris.com/pull/1245) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 🎉 Merged PR [#1244](https://github.com/CloudWithChris/cloudwithchris.com/pull/1244) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 🎉 Merged PR [#103](https://github.com/CloudWithChris/hugo-creator/pull/103) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+4. 🎉 Merged PR [#1243](https://github.com/CloudWithChris/cloudwithchris.com/pull/1243) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. 🗣 Commented on [#1241](https://github.com/CloudWithChris/cloudwithchris.com/issues/1241) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

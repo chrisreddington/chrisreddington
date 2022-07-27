@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1257](https://github.com/CloudWithChris/cloudwithchris.com/pull/1257) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. ❗️ Opened issue [#1256](https://github.com/CloudWithChris/cloudwithchris.com/issues/1256) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. ❗️ Opened issue [#1255](https://github.com/CloudWithChris/cloudwithchris.com/issues/1255) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 🗣 Commented on [#119](https://github.com/gohugoio/hugoThemesSiteBuilder/issues/119) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
-5. ❗️ Opened issue [#1254](https://github.com/CloudWithChris/cloudwithchris.com/issues/1254) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. 🎉 Merged PR [#1258](https://github.com/CloudWithChris/cloudwithchris.com/pull/1258) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 🎉 Merged PR [#19](https://github.com/CloudWithChris/Toolup-Tuesday/pull/19) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
+3. 🗣 Commented on [#19](https://github.com/CloudWithChris/Toolup-Tuesday/issues/19) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
+4. 🎉 Merged PR [#23](https://github.com/CloudWithChris/Toolup-Tuesday/pull/23) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
+5. 🎉 Merged PR [#24](https://github.com/CloudWithChris/Toolup-Tuesday/pull/24) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
 <!--END_SECTION:activity-->

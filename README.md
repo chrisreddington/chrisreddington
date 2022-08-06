@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/liamchampton/devops-series-1/pull/1) in [liamchampton/devops-series-1](https://github.com/liamchampton/devops-series-1)
-2. 🎉 Merged PR [#5](https://github.com/chrisreddington/devops-series-1/pull/5) in [chrisreddington/devops-series-1](https://github.com/chrisreddington/devops-series-1)
-3. 💪 Opened PR [#5](https://github.com/chrisreddington/devops-series-1/pull/5) in [chrisreddington/devops-series-1](https://github.com/chrisreddington/devops-series-1)
-4. 🎉 Merged PR [#1274](https://github.com/CloudWithChris/cloudwithchris.com/pull/1274) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 💪 Opened PR [#1274](https://github.com/CloudWithChris/cloudwithchris.com/pull/1274) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. ❗️ Opened issue [#36916](https://github.com/twbs/bootstrap/issues/36916) in [twbs/bootstrap](https://github.com/twbs/bootstrap)
+2. 💪 Opened PR [#1](https://github.com/liamchampton/devops-series-1/pull/1) in [liamchampton/devops-series-1](https://github.com/liamchampton/devops-series-1)
+3. 🎉 Merged PR [#5](https://github.com/chrisreddington/devops-series-1/pull/5) in [chrisreddington/devops-series-1](https://github.com/chrisreddington/devops-series-1)
+4. 💪 Opened PR [#5](https://github.com/chrisreddington/devops-series-1/pull/5) in [chrisreddington/devops-series-1](https://github.com/chrisreddington/devops-series-1)
+5. 🎉 Merged PR [#1274](https://github.com/CloudWithChris/cloudwithchris.com/pull/1274) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

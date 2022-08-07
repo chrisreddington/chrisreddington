@@ -60,8 +60,8 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#36916](https://github.com/twbs/bootstrap/issues/36916) in [twbs/bootstrap](https://github.com/twbs/bootstrap)
-2. ❗️ Opened issue [#36916](https://github.com/twbs/bootstrap/issues/36916) in [twbs/bootstrap](https://github.com/twbs/bootstrap)
-3. 💪 Opened PR [#1](https://github.com/liamchampton/devops-series-1/pull/1) in [liamchampton/devops-series-1](https://github.com/liamchampton/devops-series-1)
-4. 🎉 Merged PR [#5](https://github.com/chrisreddington/devops-series-1/pull/5) in [chrisreddington/devops-series-1](https://github.com/chrisreddington/devops-series-1)
-5. 💪 Opened PR [#5](https://github.com/chrisreddington/devops-series-1/pull/5) in [chrisreddington/devops-series-1](https://github.com/chrisreddington/devops-series-1)
+2. 🗣 Commented on [#36916](https://github.com/twbs/bootstrap/issues/36916) in [twbs/bootstrap](https://github.com/twbs/bootstrap)
+3. ❗️ Opened issue [#36916](https://github.com/twbs/bootstrap/issues/36916) in [twbs/bootstrap](https://github.com/twbs/bootstrap)
+4. 💪 Opened PR [#1](https://github.com/liamchampton/devops-series-1/pull/1) in [liamchampton/devops-series-1](https://github.com/liamchampton/devops-series-1)
+5. 🎉 Merged PR [#5](https://github.com/chrisreddington/devops-series-1/pull/5) in [chrisreddington/devops-series-1](https://github.com/chrisreddington/devops-series-1)
 <!--END_SECTION:activity-->

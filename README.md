@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1276](https://github.com/CloudWithChris/cloudwithchris.com/pull/1276) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 🎉 Merged PR [#1275](https://github.com/CloudWithChris/cloudwithchris.com/pull/1275) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 💪 Opened PR [#1275](https://github.com/CloudWithChris/cloudwithchris.com/pull/1275) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 🗣 Commented on [#36916](https://github.com/twbs/bootstrap/issues/36916) in [twbs/bootstrap](https://github.com/twbs/bootstrap)
+1. ❗️ Opened issue [#1277](https://github.com/CloudWithChris/cloudwithchris.com/issues/1277) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 🎉 Merged PR [#1276](https://github.com/CloudWithChris/cloudwithchris.com/pull/1276) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 🎉 Merged PR [#1275](https://github.com/CloudWithChris/cloudwithchris.com/pull/1275) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+4. 💪 Opened PR [#1275](https://github.com/CloudWithChris/cloudwithchris.com/pull/1275) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 5. 🗣 Commented on [#36916](https://github.com/twbs/bootstrap/issues/36916) in [twbs/bootstrap](https://github.com/twbs/bootstrap)
 <!--END_SECTION:activity-->

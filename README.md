@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1282](https://github.com/CloudWithChris/cloudwithchris.com/pull/1282) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 💪 Opened PR [#1282](https://github.com/CloudWithChris/cloudwithchris.com/pull/1282) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 🎉 Merged PR [#1279](https://github.com/CloudWithChris/cloudwithchris.com/pull/1279) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. ❗️ Opened issue [#27](https://github.com/CloudWithChris/Toolup-Tuesday/issues/27) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
-5. ❗️ Closed issue [#1277](https://github.com/CloudWithChris/cloudwithchris.com/issues/1277) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+1. 🎉 Merged PR [#109](https://github.com/CloudWithChris/hugo-creator/pull/109) in [CloudWithChris/hugo-creator](https://github.com/CloudWithChris/hugo-creator)
+2. 🎉 Merged PR [#1282](https://github.com/CloudWithChris/cloudwithchris.com/pull/1282) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 💪 Opened PR [#1282](https://github.com/CloudWithChris/cloudwithchris.com/pull/1282) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+4. 🎉 Merged PR [#1279](https://github.com/CloudWithChris/cloudwithchris.com/pull/1279) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. ❗️ Opened issue [#27](https://github.com/CloudWithChris/Toolup-Tuesday/issues/27) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
 <!--END_SECTION:activity-->

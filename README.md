@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1286](https://github.com/CloudWithChris/cloudwithchris.com/pull/1286) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. 🎉 Merged PR [#1285](https://github.com/CloudWithChris/cloudwithchris.com/pull/1285) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. 💪 Opened PR [#1285](https://github.com/CloudWithChris/cloudwithchris.com/pull/1285) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. 🎉 Merged PR [#28](https://github.com/CloudWithChris/Toolup-Tuesday/pull/28) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
-5. 💪 Opened PR [#28](https://github.com/CloudWithChris/Toolup-Tuesday/pull/28) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
+1. 🎉 Merged PR [#1286](https://github.com/CloudWithChris/cloudwithchris.com/pull/1286) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 💪 Opened PR [#1286](https://github.com/CloudWithChris/cloudwithchris.com/pull/1286) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 🎉 Merged PR [#1285](https://github.com/CloudWithChris/cloudwithchris.com/pull/1285) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+4. 💪 Opened PR [#1285](https://github.com/CloudWithChris/cloudwithchris.com/pull/1285) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. 🎉 Merged PR [#28](https://github.com/CloudWithChris/Toolup-Tuesday/pull/28) in [CloudWithChris/Toolup-Tuesday](https://github.com/CloudWithChris/Toolup-Tuesday)
 <!--END_SECTION:activity-->

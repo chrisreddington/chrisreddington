@@ -61,7 +61,7 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1293](https://github.com/CloudWithChris/cloudwithchris.com/issues/1293) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 2. 🗣 Commented on [#1293](https://github.com/CloudWithChris/cloudwithchris.com/issues/1293) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-3. ❗️ Opened issue [#1293](https://github.com/CloudWithChris/cloudwithchris.com/issues/1293) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-4. ❗️ Closed issue [#1253](https://github.com/CloudWithChris/cloudwithchris.com/issues/1253) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-5. 🗣 Commented on [#1253](https://github.com/CloudWithChris/cloudwithchris.com/issues/1253) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 🗣 Commented on [#1293](https://github.com/CloudWithChris/cloudwithchris.com/issues/1293) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+4. ❗️ Opened issue [#1293](https://github.com/CloudWithChris/cloudwithchris.com/issues/1293) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. ❗️ Closed issue [#1253](https://github.com/CloudWithChris/cloudwithchris.com/issues/1253) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
 <!--END_SECTION:activity-->

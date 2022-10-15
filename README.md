@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/chrisreddington/PartsUnlimited-GitHub/issues/7) in [chrisreddington/PartsUnlimited-GitHub](https://github.com/chrisreddington/PartsUnlimited-GitHub)
-2. ❗️ Opened issue [#6](https://github.com/chrisreddington/PartsUnlimited-GitHub/issues/6) in [chrisreddington/PartsUnlimited-GitHub](https://github.com/chrisreddington/PartsUnlimited-GitHub)
-3. ❗️ Opened issue [#5](https://github.com/chrisreddington/PartsUnlimited-GitHub/issues/5) in [chrisreddington/PartsUnlimited-GitHub](https://github.com/chrisreddington/PartsUnlimited-GitHub)
-4. ❗️ Closed issue [#12](https://github.com/chrisreddington/rss-parser/issues/12) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-5. 🗣 Commented on [#12](https://github.com/chrisreddington/rss-parser/issues/12) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+1. 🎉 Merged PR [#9](https://github.com/chrisreddington-octodemo/PartsUnlimited-GitHub/pull/9) in [chrisreddington-octodemo/PartsUnlimited-GitHub](https://github.com/chrisreddington-octodemo/PartsUnlimited-GitHub)
+2. 💪 Opened PR [#9](https://github.com/chrisreddington-octodemo/PartsUnlimited-GitHub/pull/9) in [chrisreddington-octodemo/PartsUnlimited-GitHub](https://github.com/chrisreddington-octodemo/PartsUnlimited-GitHub)
+3. ❗️ Opened issue [#8](https://github.com/chrisreddington-octodemo/PartsUnlimited-GitHub/issues/8) in [chrisreddington-octodemo/PartsUnlimited-GitHub](https://github.com/chrisreddington-octodemo/PartsUnlimited-GitHub)
+4. 🗣 Commented on [#7](https://github.com/chrisreddington-octodemo/PartsUnlimited-GitHub/issues/7) in [chrisreddington-octodemo/PartsUnlimited-GitHub](https://github.com/chrisreddington-octodemo/PartsUnlimited-GitHub)
+5. ❗️ Opened issue [#7](https://github.com/chrisreddington/PartsUnlimited-GitHub/issues/7) in [chrisreddington/PartsUnlimited-GitHub](https://github.com/chrisreddington/PartsUnlimited-GitHub)
 <!--END_SECTION:activity-->

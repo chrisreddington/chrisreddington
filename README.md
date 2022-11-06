@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1255](https://github.com/CloudWithChris/cloudwithchris.com/issues/1255) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
-2. ❗️ Closed issue [#22](https://github.com/chrisreddington/rss-parser/issues/22) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-3. ❗️ Closed issue [#21](https://github.com/chrisreddington/rss-parser/issues/21) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-4. ❗️ Closed issue [#20](https://github.com/chrisreddington/rss-parser/issues/20) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-5. ❗️ Closed issue [#19](https://github.com/chrisreddington/rss-parser/issues/19) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+1. 💪 Opened PR [#1309](https://github.com/CloudWithChris/cloudwithchris.com/pull/1309) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+2. 🎉 Merged PR [#1308](https://github.com/CloudWithChris/cloudwithchris.com/pull/1308) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+3. 💪 Opened PR [#1308](https://github.com/CloudWithChris/cloudwithchris.com/pull/1308) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+4. ❗️ Closed issue [#1255](https://github.com/CloudWithChris/cloudwithchris.com/issues/1255) in [CloudWithChris/cloudwithchris.com](https://github.com/CloudWithChris/cloudwithchris.com)
+5. ❗️ Closed issue [#22](https://github.com/chrisreddington/rss-parser/issues/22) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
 <!--END_SECTION:activity-->

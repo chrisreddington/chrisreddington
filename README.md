@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#45](https://github.com/chrisreddington/rss-parser/pull/45) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-2. ❌ Closed PR [#46](https://github.com/chrisreddington/rss-parser/pull/46) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-3. ❌ Closed PR [#50](https://github.com/chrisreddington/rss-parser/pull/50) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-4. ❌ Closed PR [#49](https://github.com/chrisreddington/rss-parser/pull/49) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-5. ❌ Closed PR [#44](https://github.com/chrisreddington/rss-parser/pull/44) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+1. ❌ Closed PR [#67](https://github.com/chrisreddington/rss-parser/pull/67) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+2. ❌ Closed PR [#66](https://github.com/chrisreddington/rss-parser/pull/66) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+3. ❌ Closed PR [#63](https://github.com/chrisreddington/rss-parser/pull/63) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+4. ❌ Closed PR [#64](https://github.com/chrisreddington/rss-parser/pull/64) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+5. ❌ Closed PR [#65](https://github.com/chrisreddington/rss-parser/pull/65) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
 <!--END_SECTION:activity-->

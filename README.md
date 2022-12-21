@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/chrisreddington/social/pull/11) in [chrisreddington/social](https://github.com/chrisreddington/social)
-2. 🎉 Merged PR [#9](https://github.com/chrisreddington/social/pull/9) in [chrisreddington/social](https://github.com/chrisreddington/social)
-3. 🗣 Commented on [#9](https://github.com/chrisreddington/social/issues/9) in [chrisreddington/social](https://github.com/chrisreddington/social)
-4. 🗣 Commented on [#10](https://github.com/chrisreddington/social/issues/10) in [chrisreddington/social](https://github.com/chrisreddington/social)
-5. ❌ Closed PR [#4](https://github.com/chrisreddington/social/pull/4) in [chrisreddington/social](https://github.com/chrisreddington/social)
+1. 🎉 Merged PR [#116](https://github.com/chrisreddington/rss-parser/pull/116) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+2. 🎉 Merged PR [#115](https://github.com/chrisreddington/rss-parser/pull/115) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+3. ❌ Closed PR [#11](https://github.com/chrisreddington/social/pull/11) in [chrisreddington/social](https://github.com/chrisreddington/social)
+4. 🎉 Merged PR [#9](https://github.com/chrisreddington/social/pull/9) in [chrisreddington/social](https://github.com/chrisreddington/social)
+5. 🗣 Commented on [#9](https://github.com/chrisreddington/social/issues/9) in [chrisreddington/social](https://github.com/chrisreddington/social)
 <!--END_SECTION:activity-->

@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#86](https://github.com/chrisreddington/rss-parser/pull/86) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-2. ❌ Closed PR [#83](https://github.com/chrisreddington/rss-parser/pull/83) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-3. ❌ Closed PR [#92](https://github.com/chrisreddington/rss-parser/pull/92) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-4. ❌ Closed PR [#87](https://github.com/chrisreddington/rss-parser/pull/87) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-5. ❌ Closed PR [#88](https://github.com/chrisreddington/rss-parser/pull/88) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+1. 🗣 Commented on [#120](https://github.com/chrisreddington/rss-parser/issues/120) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+2. 🗣 Commented on [#791](https://github.com/vercel/ncc/issues/791) in [vercel/ncc](https://github.com/vercel/ncc)
+3. ❌ Closed PR [#86](https://github.com/chrisreddington/rss-parser/pull/86) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+4. ❌ Closed PR [#83](https://github.com/chrisreddington/rss-parser/pull/83) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+5. ❌ Closed PR [#92](https://github.com/chrisreddington/rss-parser/pull/92) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
 <!--END_SECTION:activity-->

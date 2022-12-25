@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#122](https://github.com/chrisreddington/rss-parser/issues/122) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+1. ❗️ Opened issue [#123](https://github.com/chrisreddington/rss-parser/issues/123) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
 2. 🗣 Commented on [#122](https://github.com/chrisreddington/rss-parser/issues/122) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-3. ❗️ Opened issue [#122](https://github.com/chrisreddington/rss-parser/issues/122) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-4. 🎉 Merged PR [#120](https://github.com/chrisreddington/rss-parser/pull/120) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-5. 🗣 Commented on [#120](https://github.com/chrisreddington/rss-parser/issues/120) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+3. 🗣 Commented on [#122](https://github.com/chrisreddington/rss-parser/issues/122) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+4. ❗️ Opened issue [#122](https://github.com/chrisreddington/rss-parser/issues/122) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+5. 🎉 Merged PR [#120](https://github.com/chrisreddington/rss-parser/pull/120) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
 <!--END_SECTION:activity-->

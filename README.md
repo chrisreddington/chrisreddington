@@ -60,8 +60,8 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#122](https://github.com/chrisreddington/rss-parser/issues/122) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-2. ❗️ Opened issue [#122](https://github.com/chrisreddington/rss-parser/issues/122) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-3. 🎉 Merged PR [#120](https://github.com/chrisreddington/rss-parser/pull/120) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-4. 🗣 Commented on [#120](https://github.com/chrisreddington/rss-parser/issues/120) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
-5. 🗣 Commented on [#791](https://github.com/vercel/ncc/issues/791) in [vercel/ncc](https://github.com/vercel/ncc)
+2. 🗣 Commented on [#122](https://github.com/chrisreddington/rss-parser/issues/122) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+3. ❗️ Opened issue [#122](https://github.com/chrisreddington/rss-parser/issues/122) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+4. 🎉 Merged PR [#120](https://github.com/chrisreddington/rss-parser/pull/120) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
+5. 🗣 Commented on [#120](https://github.com/chrisreddington/rss-parser/issues/120) in [chrisreddington/rss-parser](https://github.com/chrisreddington/rss-parser)
 <!--END_SECTION:activity-->

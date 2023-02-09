@@ -59,9 +59,9 @@ Based on my work on Cloud With Chris, I decided to go a step further and contrib
 ![Chris' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisreddington&hide=TeX&layout=compact)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/chrisreddington/toy-website-auto-review/pull/2) in [chrisreddington/toy-website-auto-review](https://github.com/chrisreddington/toy-website-auto-review)
-2. 💪 Opened PR [#2](https://github.com/chrisreddington/toy-website-auto-review/pull/2) in [chrisreddington/toy-website-auto-review](https://github.com/chrisreddington/toy-website-auto-review)
-3. 🎉 Merged PR [#1](https://github.com/chrisreddington/toy-website-auto-review/pull/1) in [chrisreddington/toy-website-auto-review](https://github.com/chrisreddington/toy-website-auto-review)
-4. 🗣 Commented on [#1](https://github.com/chrisreddington/toy-website-auto-review/issues/1) in [chrisreddington/toy-website-auto-review](https://github.com/chrisreddington/toy-website-auto-review)
-5. 💪 Opened PR [#1](https://github.com/chrisreddington/toy-website-auto-review/pull/1) in [chrisreddington/toy-website-auto-review](https://github.com/chrisreddington/toy-website-auto-review)
+1. ❌ Closed PR [#1](https://github.com/liamchampton/devops-series-1/pull/1) in [liamchampton/devops-series-1](https://github.com/liamchampton/devops-series-1)
+2. 🎉 Merged PR [#2](https://github.com/chrisreddington/toy-website-auto-review/pull/2) in [chrisreddington/toy-website-auto-review](https://github.com/chrisreddington/toy-website-auto-review)
+3. 💪 Opened PR [#2](https://github.com/chrisreddington/toy-website-auto-review/pull/2) in [chrisreddington/toy-website-auto-review](https://github.com/chrisreddington/toy-website-auto-review)
+4. 🎉 Merged PR [#1](https://github.com/chrisreddington/toy-website-auto-review/pull/1) in [chrisreddington/toy-website-auto-review](https://github.com/chrisreddington/toy-website-auto-review)
+5. 🗣 Commented on [#1](https://github.com/chrisreddington/toy-website-auto-review/issues/1) in [chrisreddington/toy-website-auto-review](https://github.com/chrisreddington/toy-website-auto-review)
 <!--END_SECTION:activity-->

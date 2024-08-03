@@ -2,7 +2,7 @@
 
 ### [Chris Reddington](https://github.com/chrisreddington/)
 
-Hi! I'm Chris Reddington, Senior Manager for Enterprise Advocacy (International) at GitHub (aka I lead a team of advocates that help developers, engineering leads and execs at startups, enterprises and other organizations ❤️ GitHub). The repos under my profile and the CloudWithChris org are not endorsed in any way by my employer. Use at your own risk.
+Hi! I'm Chris Reddington, Senior Program Manager for DevRel Strategy at GitHub. The repos under my profile and the CloudWithChris org are not endorsed in any way by my employer. Use at your own risk.
 
 [![GitHub Badge](https://img.shields.io/github/followers/chrisreddington?style=social)](https://github.com/chrisreddington)
 [![Twitter Badge](https://img.shields.io/twitter/follow/reddobowen?style=social)](https://twitter.com/intent/follow?screen_name=reddobowen "Follow on Twitter")

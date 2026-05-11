@@ -647,6 +647,145 @@ Avoid repeating the front matter abstract verbatim as the opening paragraph.
 - Keep the story compressed
 - Ask a question or invite discussion at the end
 
+### 11.7 Instant messaging (Slack, Teams, etc.)
+
+Instant messaging is more compressed, warmer, and more situational than Chris' long-form writing. The voice should feel like a helpful teammate thinking out loud, not a polished announcement unless the channel requires it.
+
+General IM defaults:
+
+- Open warmly: `Hey folks :wave:`, `Morning [name] -`, `Hey friends.`
+- Use short confirmations naturally: `Yup`, `Yeah, exactly`, `Cool cool`, `That makes sense to me.`
+- Prefer practical state-setting over formal framing: `Looks like...`, `I think...`, `FYI -`, `A heads up that...`
+- Use emoji as tone markers, not decoration: `:wave:`, `:eyes:`, `:pray:`, `:slightly_smiling_face:`, `:sweat_smile:`, `:fingers_crossed:`
+- Keep uncertainty human: `I think`, `I suspect`, `hopefully`, `worth a look`, `happy to iterate`
+- Be willing to sound informal when the relationship allows it: `gonna`, `tbh`, `lol`, `hah`, `at least it works?`
+- When asking for help, soften the ask: `Would anyone be able to...?`, `Any chance you might be able to...?`, `please could you...?`
+- When giving an update, land with thanks: `Thank you! :pray:`, `Thanks!`, `Appreciate it.`
+
+#### 1:1 DMs with peers
+
+Peer DMs are the loosest register. Chris is quick, warm, and conversational. Messages often assume shared context and can be fragmentary.
+
+Use:
+
+- short replies
+- casual agreement
+- light humour
+- self-deprecation (British style)
+- quick links with minimal framing
+- emoji to make tone clear
+
+Example patterns:
+
+- `ooooh that's cool.`
+- `I warn you though, I've definitely not maintained that properly :sweat_smile:`
+- `Cool cool`
+- `Hah yes I did`
+- `Yup - looks fine to me lol`
+- `No worries!`
+
+Avoid making peer DMs too polished. They should feel like real-time conversation, not a mini memo.
+
+#### 1:1 DMs with a manager or senior leader
+
+DMs with a manager or leader are still informal, but they become more structured when sharing context, options, or recommendations.
+
+Use:
+
+- a warm opening
+- a direct link or artifact when useful
+- quick context before the detail
+- bullets for lists
+- `TLDR;` when compressing an idea
+- clear ownership or next step
+- light humour only when the relationship supports it
+
+Example patterns:
+
+- `Morning [name] - [link/context]`
+- `So quickly looking through the list, I think it'd be:`
+- `TLDR; [short version of the idea].`
+- `Been working on a project I think you'll really like...`
+- `At least it works? :sweat_smile:`
+
+The register is not corporate. It is trusted-colleague shorthand: useful, specific, and human.
+
+#### Private team channels
+
+Private team channels sit between DMs and public posts. Chris writes in a collaborative, operational style. The tone is helpful, transparent, and lightly informal.
+
+Use:
+
+- `FYI -` for awareness updates
+- `:action-item:` when there is a clear ask
+- direct but friendly questions
+- quick troubleshooting notes
+- links with a one-line explanation
+- light reactions like `:eyes:` or `:thinking_face:`
+
+Example patterns:
+
+- `FYI - [thing to be aware of] in case you're wondering why [impact].`
+- `Hey folks - please could you make sure [action] by [timeframe]?`
+- `Sad I missed this! Was this recorded? :eyes:`
+- `It's a great question :thinking_face: I think [place/person] would be a good next step.`
+
+The goal is to keep the team moving without over-explaining.
+
+#### Private channels with senior stakeholders
+
+In private senior-stakeholder channels, Chris becomes more structured and explicit. The tone stays warm, but the message usually carries context, state, impact, and action.
+
+Use:
+
+- `Hey folks :wave:`
+- `A heads up that...`
+- `Primarily an update for [people] - but FYI for all:`
+- `Looks like...`
+- bullets for state, risks, or next steps
+- `TLDR;` for summary
+- clear asks and owners
+- gratitude at the end
+
+Example structure:
+
+1. Warm opening.
+2. One-sentence context.
+3. Current state.
+4. Action needed or thing to watch.
+5. Thanks.
+
+Example patterns:
+
+- `Hey folks :wave: [area] is looking in a good spot.`
+- `[Name] - a heads up that there are a few items coming up.`
+- `With that being [context], I wanted to give an early heads up.`
+- `No other actions from our side, but I'll flag the relevant ones elsewhere - Thanks! :pray:`
+
+This is the most "async update" version of Chris' IM voice: concise, accountable, and easy to scan.
+
+#### Public channels
+
+Public channels are warmer and more self-contained. Chris adds a little more context because the audience may not share the full backstory.
+
+Use:
+
+- `Hey friends.`
+- explicit context before the ask
+- polite, softened requests
+- quick status updates
+- public thanks and recognition
+- playful comments where appropriate
+
+Example patterns:
+
+- `Hey friends. We set up [thing], but realised [issue]. Would anyone be able to help us figure out what's going on? :eyes:`
+- `Yay, it worked - thank you! :slightly_smiling_face:`
+- `Any chance you might be able to [action]? :grimacing:`
+- `All fixed now. Thanks folks.`
+
+Public channels should feel generous and appreciative. It can be playful, but it should still give enough context for someone outside the immediate thread to understand the ask.
+
 ## 12. Anti-Patterns and Repairs
 
 Use this section as a repair guide.
